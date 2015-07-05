@@ -6,6 +6,10 @@ I'm a frontend developer so most of the topics I watch related to web developmen
 
 These talks are mostly about programming but not only. The list contains also other aspects of sotware engineering such as business development, startups, leadership, management, technology as well as other topics that inspire me.
 
+####Technology
+- [x] [2015] [How a driverless car sees the road](https://www.youtube.com/watch?v=link) (TED) by **Chris Urmson** `15:29`
+
+
 ####Leadership
 - [x] [2011] [First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) by **Simon Sinek** `17:07`
 - [x] [2011] [If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) by **Simon Sinek** `30:40`
@@ -39,6 +43,8 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [2014] [Art & Science of Digital Connections](https://www.youtube.com/watch?v=qJYCxDAiXsk) (Talent Connet) by **Dave Hazlehurst** `47:02`
 - [x] [2013] [8 "Stupid" Copywriting Tricks - Part 1](https://www.youtube.com/watch?v=rteSvoogGv0) (Mindvalley Insights) by **Chris Haddad** `15:08`
 - [x] [2013] [8 "Stupid" Copywriting Tricks - Part 2](https://www.youtube.com/watch?v=joF5Ikc8ggw) (Mindvalley Insights) by **Chris Haddad** `10:05`
+
+
 
 
 ####Template
