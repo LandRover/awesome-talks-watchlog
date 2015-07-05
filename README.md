@@ -13,6 +13,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [2013] [Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) by **Simon Sinek** `45:50`
 - [x] [2014] [Simon Sinek on Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) by **Simon Sinek** `14:51`
 
+####Uncategorized
+- [x] [2014] ['Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) by **Dave Hazlehurst** `27:50`
+- [x] [2014] [Art & Science of Digital Connections](https://www.youtube.com/watch?v=qJYCxDAiXsk) (Talent Connet) by **Dave Hazlehurst** `47:02`
+
 
 ####Template
  - [x] [YEAR] [title](link) (eventName) by **name** `00:00`
