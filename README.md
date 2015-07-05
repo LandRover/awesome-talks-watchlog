@@ -53,3 +53,21 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ####Template
  - [x] [YEAR] [title](link) (eventName) by **name** `00:00`
+
+
+#####Other Repositories I follow:
+ - Software
+  - [UX must watch](https://github.com/anilbms/ux-must-watch-videos)
+  - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
+  - [Programming Talks](https://github.com/hellerve/programming-talks)
+  - [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)
+  - [PHP Must Watch](https://github.com/phptodayorg/php-must-watch)
+  - [django Must Watch](https://github.com/rosarior/django-must-watch)
+  - [Python Must Watch](https://github.com/s16h/py-must-watch)
+  - [Symfony Must Watch](https://github.com/symfony-si/symfony-must-watch)
+ 
+ - Other
+  - [Startup Grind](https://www.youtube.com/user/StartupGrind)
+  - [Creative Mornings](https://www.youtube.com/user/Creativemornings)
+  - [IMUK](https://www.youtube.com/user/inboundukdotorg)
+  - [JSConf](https://www.youtube.com/user/jsconfeu)
