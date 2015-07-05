@@ -10,6 +10,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [2015] [How a driverless car sees the road](https://www.youtube.com/watch?v=tiwVMrTLUWg) (TED) by **Chris Urmson** `15:29`
 
 
+####Start Up
+- [x] [2014] [Startup Grind Tel Aviv Hosts Gigi Levy](https://www.youtube.com/watch?v=RJLcurD4q70) (Startup Grind) by **Gigi Levy** `01:14:16`
+
+
 ####Leadership
 - [x] [2011] [First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) by **Simon Sinek** `17:07`
 - [x] [2011] [If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) by **Simon Sinek** `30:40`
