@@ -26,6 +26,8 @@ These talks are mostly about programming but not only. The list contains also ot
 ####Uncategorized
 - [x] [2014] ['Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) by **Dave Hazlehurst** `27:50`
 - [x] [2014] [Art & Science of Digital Connections](https://www.youtube.com/watch?v=qJYCxDAiXsk) (Talent Connet) by **Dave Hazlehurst** `47:02`
+- [x] [2013] [8 "Stupid" Copywriting Tricks - Part 1](https://www.youtube.com/watch?v=rteSvoogGv0) (Mindvalley Insights) by **Chris Haddad** `15:08`
+- [x] [2013] [8 "Stupid" Copywriting Tricks - Part 2](https://www.youtube.com/watch?v=joF5Ikc8ggw) (Mindvalley Insights) by **Chris Haddad** `10:05`
 
 
 ####Template
