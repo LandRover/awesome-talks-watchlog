@@ -13,9 +13,15 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [2013] [Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) by **Simon Sinek** `45:50`
 - [x] [2014] [Simon Sinek on Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) by **Simon Sinek** `14:51`
 
+
 ####Business Development
 - [x] [2014] [Keynote speech 2014](https://www.youtube.com/watch?v=uJ51V93u84o) (IMUK) by **Gary Vaynerchuk** `48:01`
 - [x] [2014] [Gary Vaynerchuk Keynote](https://www.youtube.com/watch?v=AC3XtSYM5aY) (PCBC) by **Gary Vaynerchuk** `01:03:06`
+
+
+####Self Motivation
+- [x] [2014] [Keynote at Affiliate Summit East 2014](https://www.youtube.com/watch?v=jMF7KT1STEs) (Affiliate Summit) by **Julie Gurner** `49:26`
+
 
 ####Uncategorized
 - [x] [2014] ['Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) by **Dave Hazlehurst** `27:50`
