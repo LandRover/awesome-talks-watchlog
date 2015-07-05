@@ -7,7 +7,7 @@ I'm a frontend developer so most of the topics I watch related to web developmen
 These talks are mostly about programming but not only. The list contains also other aspects of sotware engineering such as business development, startups, leadership, management, technology as well as other topics that inspire me.
 
 ####Technology
-- [x] [2015] [How a driverless car sees the road](https://www.youtube.com/watch?v=link) (TED) by **Chris Urmson** `15:29`
+- [x] [2015] [How a driverless car sees the road](https://www.youtube.com/watch?v=tiwVMrTLUWg) (TED) by **Chris Urmson** `15:29`
 
 
 ####Leadership
