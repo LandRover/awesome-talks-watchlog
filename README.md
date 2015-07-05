@@ -7,6 +7,6 @@ I'm a frontend developer so most of the topics I watch related to web developmen
 These talks are mostly about programming but not only. The list contains also other aspects of sotware engineering such as business development, startups, leadership, management, technology etc.
 
 ####Software Development
- - [x] [title](link) by **name** `00:00`
+ - [x] [title](link) (eventName) by **name** `00:00`
 
  
