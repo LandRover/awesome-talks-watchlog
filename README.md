@@ -22,7 +22,11 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [2014] [Keynote at Affiliate Summit East 2014](https://www.youtube.com/watch?v=jMF7KT1STEs) (Affiliate Summit) by **Julie Gurner** `49:26`
 - [x] [2014] [The 6 Characteristics of Truly Creative People](https://www.youtube.com/watch?v=CgCdsERkqrc) (99%) by **Tina Seelig** `20:09`
 - [x] [2014] [The 4 Ways to Successfully Adopt New Habits](https://www.youtube.com/watch?v=gBNEVXg2CNU) (99%) by **Gretchen Rubin** `18:03`
-- 
+- [x] [2014] [Faliure](https://www.youtube.com/watch?v=v8iuAfyjAkA) (Creative Mornings) by **Matt Heafy** `37:08`
+- [x] [2014] [Optimizing his painting business](https://www.youtube.com/watch?v=mu5S0QCs-qs) (Creative Mornings) by **Justin Vining** `40:20`
+- [x] [2014] [Education, Experience, and Performing Arts](https://www.youtube.com/watch?v=J5igrc0wTzY) (Creative Mornings) by **Margo Kane** `52:04`
+
+
 
 ####Uncategorized
 - [x] [2014] ['Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) by **Dave Hazlehurst** `27:50`
