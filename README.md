@@ -27,6 +27,12 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [2014] [Education, Experience, and Performing Arts](https://www.youtube.com/watch?v=J5igrc0wTzY) (Creative Mornings) by **Margo Kane** `52:04`
 
 
+####Affiliate
+- [x] [2013] [Wil Reynolds Keynote](https://www.youtube.com/watch?v=yl35kQEG_cM) (Affiliate Summit) by **Wil Reynolds** `01:15:48`
+- [x] [2013] [Landing Page Optimization / SEO](https://www.youtube.com/watch?v=Zgw4LGw61p0) (Affiliate Summit) by **Tim Ash** `01:10:56`
+- [x] [2013] [Entrepreneur, Speaker, Author](https://www.youtube.com/watch?v=IXDetTLXjGc) (Affiliate Summit) by **Randal Pinkett** `01:15:08`
+- [x] [2014] [Entrepreneur, Discovered facebook](https://www.youtube.com/watch?v=Ax-WRfR1BkY) (Affiliate Summit) by **Peter Thiel** `49:23`
+
 
 ####Uncategorized
 - [x] [2014] ['Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) by **Dave Hazlehurst** `27:50`
