@@ -34,7 +34,10 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY) (Yahoo) `01:06:45`
   - Older
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
- 
+
+####Software Design
+- [ ] 2011
+ - [x] [**Robert C. Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) `01:06:38`
 
 ***
 
