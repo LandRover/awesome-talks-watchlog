@@ -6,8 +6,10 @@ I'm a frontend developer so most of the topics I watch related to web developmen
 
 These talks are mostly about programming but not only. The list contains also other aspects of sotware engineering such as business development, startups, leadership, management, technology as well as other topics that inspire me.
 
-###Software Development
 ---
+
+###Software Development
+
 
 ####Javascript
 - [x] [**Addy Osmani**: Polymer and modern web APIs](https://www.youtube.com/watch?v=fD2As5RmM8Q) (I/O) [2015] `46:27`
@@ -32,24 +34,22 @@ These talks are mostly about programming but not only. The list contains also ot
   - Older
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
+
 ####Software Design
- - [ ] 2014
-  - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) `41:55`
- - [ ] 2011
-  - [x] [**Robert C. Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) `01:06:38`
+- [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
+- [x] [**Robert C. Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) [2011] `01:06:38`
+
 
 ####Object-Oriented
 Functional Principles for OO Development
- - [ ] 2013
-  - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) `27:59`
- - [ ] 2012
-  - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) () `27:29`
+- [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) [2013] `27:59`
+- [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
 
 
 ***
 
+
 ###Other
----
 
 
 ####Technology
@@ -63,63 +63,49 @@ Functional Principles for OO Development
 
 
 ####Leadership
-- [ ] 2014
- - [x] [**Simon Sinek**: On Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) `14:51`
-- [ ] 2013
- - [x] [**Simon Sinek**: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) `45:50`
-- [ ] 2012
- - [x] [**Simon Sinek**: Love Your Work](https://www.youtube.com/watch?v=jDIZS4IQlQk) (Creative Mornings) `42:07`
-- [ ] 2011
- - [x] [**Simon Sinek**: First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) `17:07`
- - [x] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) `30:40`
+- [x] [**Simon Sinek**: On Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) [2014] `14:51`
+- [x] [**Simon Sinek**: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) [2013] `45:50`
+- [x] [**Simon Sinek**: Love Your Work](https://www.youtube.com/watch?v=jDIZS4IQlQk) (Creative Mornings) [2012] `42:07`
+- [x] [**Simon Sinek**: First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) [2011] `17:07`
+- [x] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) [2011] `30:40`
 
 
 ####Marketing
-- [ ] 2014
- - [x] [**Gary Vaynerchuk**: Keynote speech 2014](https://www.youtube.com/watch?v=uJ51V93u84o) (IMUK) `48:01`
- - [x] [**Gary Vaynerchuk**: Keynote](https://www.youtube.com/watch?v=AC3XtSYM5aY) (PCBC) `01:03:06`
+- [x] [**Gary Vaynerchuk**: Keynote speech 2014](https://www.youtube.com/watch?v=uJ51V93u84o) (IMUK) [2014] `48:01`
+- [x] [**Gary Vaynerchuk**: Keynote](https://www.youtube.com/watch?v=AC3XtSYM5aY) (PCBC) [2014] `01:03:06`
 
 
 ####Self Motivation
-- [ ] 2014
- - [x] [**Julie Gurner**: Keynote at Affiliate Summit East 2014](https://www.youtube.com/watch?v=jMF7KT1STEs) (Affiliate Summit) `49:26`
- - [x] [**Tina Seelig**: The 6 Characteristics of Truly Creative People](https://www.youtube.com/watch?v=CgCdsERkqrc) (99%) `20:09`
- - [x] [**Gretchen Rubin**: The 4 Ways to Successfully Adopt New Habits](https://www.youtube.com/watch?v=gBNEVXg2CNU) (99%) `18:03`
- - [x] [**Matt Heafy**: Faliure](https://www.youtube.com/watch?v=v8iuAfyjAkA) (Creative Mornings) `37:08`
- - [x] [**Justin Vining**: Optimizing his painting business](https://www.youtube.com/watch?v=mu5S0QCs-qs) (Creative Mornings) `40:20`
- - [x] [**Margo Kane**: Education, Experience, and Performing Arts](https://www.youtube.com/watch?v=J5igrc0wTzY) (Creative Mornings) `52:04`
+- [x] [**Julie Gurner**: Keynote at Affiliate Summit East 2014](https://www.youtube.com/watch?v=jMF7KT1STEs) (Aff. Summit) [2014] `49:26`
+- [x] [**Tina Seelig**: The 6 Characteristics of Truly Creative People](https://www.youtube.com/watch?v=CgCdsERkqrc) (99%) [2014] `20:09`
+- [x] [**Gretchen Rubin**: The 4 Ways to Successfully Adopt New Habits](https://www.youtube.com/watch?v=gBNEVXg2CNU) (99%) [2014] `18:03`
+- [x] [**Matt Heafy**: Faliure](https://www.youtube.com/watch?v=v8iuAfyjAkA) (Creative Mornings) [2014] `37:08`
+- [x] [**Justin Vining**: Optimizing his painting business](https://www.youtube.com/watch?v=mu5S0QCs-qs) (Creative Mornings) [2014] `40:20`
+- [x] [**Margo Kane**: Education, Experience, and Performing Arts](https://www.youtube.com/watch?v=J5igrc0wTzY) (Creative Mornings) [2014] `52:04`
 
 
 ####Affiliate
-- [ ] 2014
- - [x] [**Peter Thiel**: Entrepreneur, Discovered facebook](https://www.youtube.com/watch?v=Ax-WRfR1BkY) (Affiliate Summit) `49:23`
-- [ ] 2013
- - [x] [**Wil Reynolds**: Wil Reynolds Keynote](https://www.youtube.com/watch?v=yl35kQEG_cM) (Affiliate Summit) `01:15:48`
- - [x] [**Tim Ash**: Landing Page Optimization / SEO](https://www.youtube.com/watch?v=Zgw4LGw61p0) (Affiliate Summit) `01:10:56`
- - [x] [**Randal Pinkett**: Entrepreneur, Speaker, Author](https://www.youtube.com/watch?v=IXDetTLXjGc) (Affiliate Summit) `01:15:08`
+- [x] [**Peter Thiel**: Entrepreneur, Discovered facebook](https://www.youtube.com/watch?v=Ax-WRfR1BkY) (Aff. Summit) [2014] `49:23`
+- [x] [**Wil Reynolds**: Wil Reynolds Keynote](https://www.youtube.com/watch?v=yl35kQEG_cM) (Aff. Summit) [2013] `01:15:48`
+- [x] [**Tim Ash**: Landing Page Optimization / SEO](https://www.youtube.com/watch?v=Zgw4LGw61p0) (Aff. Summit) [2013] `01:10:56`
+- [x] [**Randal Pinkett**: Entrepreneur, Speaker, Author](https://www.youtube.com/watch?v=IXDetTLXjGc) (Aff. Summit) [2013] `01:15:08`
 
 
 
 ####Uncategorized
-- [ ] 2014
- - [x] [**Dave Hazlehurst**: 'Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) `27:50`
- - [x] [**Dave Hazlehurst**: Art & Science of Digital Connections](https://www.youtube.com/watch?v=qJYCxDAiXsk) (Talent Connet) `47:02`
-- [ ] 2013
- - [x] **Chris Haddad**: 8 "Stupid" Copywriting Tricks (Mindvalley Insights) | [Part 1](https://www.youtube.com/watch?v=rteSvoogGv0) `15:08` | [Part 2](https://www.youtube.com/watch?v=joF5Ikc8ggw) `10:05`
-- [ ] 2012
- - [x] [**Michio Kaku**: The Universe in a Nutshell](https://www.youtube.com/watch?v=0NbBjNiw4tk) (Big Think) `42:13`
-
-
+- [x] [**Dave Hazlehurst**: 'Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) [2014] `27:50`
+- [x] [**Dave Hazlehurst**: Art & Science of Digital Connections](https://www.youtube.com/watch?v=qJYCxDAiXsk) (Talent Connet) [2014] `47:02`
+- [x] **Chris Haddad**: 8 "Stupid" Copywriting Tricks (Mindvalley Insights)
+    - [Part 1](https://www.youtube.com/watch?v=rteSvoogGv0) `15:08` | [Part 2](https://www.youtube.com/watch?v=joF5Ikc8ggw) `10:05`
+- [x] [**Michio Kaku**: The Universe in a Nutshell](https://www.youtube.com/watch?v=0NbBjNiw4tk) (Big Think) [2012] `42:13`
 
 
 ####Template
- - YEAR
-  - [x] [**name**: title](link) (eventName) `00:00`
-  - [x] [](https://www.youtube.com/watch?v=) () ``
+- [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR]`00:00`
 
 
 #####Other Repositories I follow:
- - Software
+ - Web Development
   - [UX must watch](https://github.com/anilbms/ux-must-watch-videos)
   - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
   - [Programming Talks](https://github.com/hellerve/programming-talks)
