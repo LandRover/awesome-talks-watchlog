@@ -6,6 +6,7 @@ I'm a frontend developer so most of the topics I watch related to web developmen
 
 These talks are mostly about programming but not only. The list contains also other aspects of sotware engineering such as business development, startups, leadership, management, technology as well as other topics that inspire me.
 
+
 ---
 
 ###Software Development
@@ -43,6 +44,7 @@ These talks are mostly about programming but not only. The list contains also ot
 ####Object-Oriented
 - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) [2013] `27:59`
 - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
+
 
 
 ***
