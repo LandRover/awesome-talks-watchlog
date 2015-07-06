@@ -36,6 +36,8 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
 ####Software Design
+ - 2014
+  - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) `41:55`
 - [ ] 2011
  - [x] [**Robert C. Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) `01:06:38`
 
