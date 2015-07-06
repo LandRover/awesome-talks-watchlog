@@ -45,6 +45,9 @@ These talks are mostly about programming but not only. The list contains also ot
 ####Methodologies
 - [x] [**Anders Ivarsson**: The Agile Engineering and Leadership Culture at Spotify](https://www.youtube.com/watch?v=9JAji1A1AmM) (XebiCon) [2015] `49:17`
 - [x] [**Chris Angove**: How Spotify Helps Their Engineers Grow](https://www.youtube.com/watch?v=qIIAZ1ZOnPA) (Hakka) [2014] `01:05:47`
+- [x] [**Dave Thomas**: The Death of Agile](https://www.youtube.com/watch?v=YpGGRAhes2k) (Rethink) [2014] `47:45`
+- [x] **Henrik Kniberg**: Spotify Engineering Culture (Training & Development)] [2014]
+  - [Part 1](https://www.youtube.com/watch?v=Mpsn3WaI_4k) `13:12` | [Part 2](https://www.youtube.com/watch?v=X3rGdmoTjDc) `13:28`
 - [x] [**Robert Martin**: Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) (Elapse) [2012] `45:03`
 - [x] [**Alistair Cockburn**: Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) (Aglie) [2012] `53:04`
 - [x] [**Robert Martin**: The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) (NDC) [2011] `45:41`
