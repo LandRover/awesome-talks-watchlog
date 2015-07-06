@@ -41,6 +41,11 @@ These talks are mostly about programming but not only. The list contains also ot
  - [ ] 2011
   - [x] [**Robert C. Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) `01:06:38`
 
+####Object-Oriented
+ - [ ] 2012
+  - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) () `27:29`
+
+
 ***
 
 ###Other
