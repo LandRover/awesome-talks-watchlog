@@ -41,7 +41,6 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Object-Oriented
-Functional Principles for OO Development
 - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) [2013] `27:59`
 - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
 
