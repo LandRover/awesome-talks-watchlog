@@ -42,6 +42,9 @@ These talks are mostly about programming but not only. The list contains also ot
   - [x] [**Robert C. Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) `01:06:38`
 
 ####Object-Oriented
+Functional Principles for OO Development
+ - [ ] 2013
+  - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) `27:59`
  - [ ] 2012
   - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) () `27:29`
 
