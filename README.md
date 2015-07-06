@@ -21,6 +21,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [**Philip Roberts**: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (JSConf) `26:52`
 - [ ] 2013
  - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) `01:19:10`
+ - [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) `29:31`
 - [ ] **Douglas Crockford**
   - On Javascript series
     - [x] [Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (Yahoo) `01:42:08`
@@ -32,7 +33,7 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) (Yahoo) `57:18`
     - [x] [Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY) (Yahoo) `01:06:45`
   - Older
-   - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
+    - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
  
 
 ***
