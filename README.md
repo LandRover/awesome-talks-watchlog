@@ -22,15 +22,15 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) [2013] `01:19:10`
 - [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) [2013] `29:31`
 - [ ] **Douglas Crockford**
-  - On Javascript series
-    - [x] [Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (Yahoo) `01:42:08`
-    - [x] [Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) (Yahoo) `01:30:22`
-    - [x] [Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) (Yahoo) `01:13:28`
-    - [x] [Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) (Yahoo) `01:33:55`
-    - [x] [Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) (Yahoo) `01:24:42`
-    - [x] [Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) (Yahoo) `51:52`
-    - [x] [Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) (Yahoo) `57:18`
-    - [x] [Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY) (Yahoo) `01:06:45`
+  - On Javascript series (Yahoo)
+    - [x] [Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) `01:42:08`
+    - [x] [Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) `01:30:22`
+    - [x] [Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) `01:13:28`
+    - [x] [Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) `01:33:55`
+    - [x] [Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) `01:24:42`
+    - [x] [Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) `51:52`
+    - [x] [Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) `57:18`
+    - [x] [Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY) `01:06:45`
   - Older
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
