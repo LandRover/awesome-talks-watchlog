@@ -53,13 +53,11 @@ Functional Principles for OO Development
 
 
 ####Technology
-- [ ] 2015
- - [x] [**Chris Urmson**: How a driverless car sees the road](https://www.youtube.com/watch?v=tiwVMrTLUWg) (TED) `15:29`
+- [x] [**Chris Urmson**: How a driverless car sees the road](https://www.youtube.com/watch?v=tiwVMrTLUWg) (TED) [2015] `15:29`
 
 
 ####Start Up
-- [ ] 2014
- - [x] [**Gigi Levy**: Startup Grind Tel Aviv Hosts Gigi](https://www.youtube.com/watch?v=RJLcurD4q70) (Startup Grind) `01:14:16`
+- [x] [**Gigi Levy**: Startup Grind Tel Aviv Hosts Gigi](https://www.youtube.com/watch?v=RJLcurD4q70) (Startup Grind) [2014] `01:14:16`
 
 
 ####Leadership
@@ -101,7 +99,7 @@ Functional Principles for OO Development
 
 
 ####Template
-- [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR]`00:00`
+- [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR] `00:00`
 
 
 #####Other Repositories I follow:
