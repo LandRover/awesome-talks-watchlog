@@ -9,7 +9,29 @@ These talks are mostly about programming but not only. The list contains also ot
 ###Software Development
 ---
 
-
+####Javascript
+- [ ] 2015
+ - [x] [**Addy Osmani**: Polymer and modern web APIs](https://www.youtube.com/watch?v=fD2As5RmM8Q) (I/O) `46:27`
+ - [x] [**Stuart Harris**: Getting Started with React.js](https://www.youtube.com/watch?v=8HkVHbJZeWY) (JSConf) `46:29`
+ - [x] [**Pete Hunt**: Full Stack Flux](https://www.youtube.com/watch?v=KtmjkCuV-EU) (React.js) `32:34`
+ - [x] [**Ryan Florence**: Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg) (React.js) `31:16`
+ - [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) `30:13`
+ - [x] [**Dave Smith**: Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) (ng-conf) `19:26`
+- [ ] 2013
+ - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) `01:19:10`
+- [ ] **Douglas Crockford**
+  - On Javascript series
+    - [x] [Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) (Yahoo) `01:42:08`
+    - [x] [Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) (Yahoo) `01:30:22`
+    - [x] [Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) (Yahoo) `01:13:28`
+    - [x] [Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) (Yahoo) `01:33:55`
+    - [x] [Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) (Yahoo) `01:24:42`
+    - [x] [Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) (Yahoo) `51:52`
+    - [x] [Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY) (Yahoo) `57:18`
+    - [x] [Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY) (Yahoo) `01:06:45`
+  - Older
+   - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
+ 
 
 ***
 
@@ -28,11 +50,15 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Leadership
-- [x] [2014] [**Simon Sinek**: On Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) `14:51`
-- [x] [2013] [**Simon Sinek**: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) `45:50`
-- [x] [2012] [**Simon Sinek**: Love Your Work](https://www.youtube.com/watch?v=jDIZS4IQlQk) (Creative Mornings) `42:07`
-- [x] [2011] [**Simon Sinek**: First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) `17:07`
-- [x] [2011] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) `30:40`
+- [ ] 2014
+ - [x] [**Simon Sinek**: On Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) `14:51`
+- [ ] 2013
+ - [x] [**Simon Sinek**: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) `45:50`
+- [ ] 2012
+ - [x] [**Simon Sinek**: Love Your Work](https://www.youtube.com/watch?v=jDIZS4IQlQk) (Creative Mornings) `42:07`
+- [ ] 2011
+ - [x] [**Simon Sinek**: First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) `17:07`
+ - [x] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) `30:40`
 
 
 ####Marketing
@@ -74,7 +100,9 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Template
- - [x] [YEAR] [title](link) (eventName) by **name** `00:00`
+ - YEAR
+  - [x] [**name**: title](link) (eventName) `00:00`
+  - [x] [](https://www.youtube.com/watch?v=) () ``
 
 
 #####Other Repositories I follow:
