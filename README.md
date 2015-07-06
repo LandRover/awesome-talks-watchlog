@@ -23,6 +23,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) [2013] `01:19:10`
 - [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) [2013] `29:31`
 - [ ] **Douglas Crockford**
+  - [x] [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) (JSConfUY) [2014] `01:00:53`
   - On Javascript series (Yahoo)
     - [x] [Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) `01:42:08`
     - [x] [Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) `01:30:22`
@@ -38,14 +39,22 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ####Software Design
 - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
-- [x] [**Robert C. Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) [2011] `01:06:38`
+- [x] [**Robert Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) [2011] `01:06:38`
+
+
+####Methodologies
+- [x] [**Robert Martin**: Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) (Elapse) [2012] `45:03`
+- [x] [**Alistair Cockburn**: Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) (Aglie) [2012] `53:04`
+- [x] [**Robert Martin**: The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) (NDC) [2011] `45:41`
+- [x] [**Michael Feathers**: The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) (NDC) [2011] `53:50`
 
 
 ####Object-Oriented
 - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) [2013] `27:59`
 - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
 
-
+####TDD
+- [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
 
 ***
 
