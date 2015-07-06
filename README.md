@@ -17,6 +17,8 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [**Ryan Florence**: Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg) (React.js) `31:16`
  - [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) `30:13`
  - [x] [**Dave Smith**: Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) (ng-conf) `19:26`
+- [ ] 2014
+ - [x] [**Philip Roberts**: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (JSConf) `26:52`
 - [ ] 2013
  - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) `01:19:10`
 - [ ] **Douglas Crockford**
