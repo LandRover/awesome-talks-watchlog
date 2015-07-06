@@ -15,11 +15,12 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Leadership
+- [x] [2014] [Simon Sinek on Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) by **Simon Sinek** `14:51`
+- [x] [2013] [Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) by **Simon Sinek** `45:50`
+- [x] [2012] [Love Your Work](https://www.youtube.com/watch?v=jDIZS4IQlQk) (Creative Mornings) by **Simon Sinek** `42:07`
 - [x] [2011] [First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) by **Simon Sinek** `17:07`
 - [x] [2011] [If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) by **Simon Sinek** `30:40`
-- [x] [2012] [Love Your Work](https://www.youtube.com/watch?v=jDIZS4IQlQk) (Creative Mornings) by **Simon Sinek** `42:07`
-- [x] [2013] [Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) by **Simon Sinek** `45:50`
-- [x] [2014] [Simon Sinek on Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) by **Simon Sinek** `14:51`
+
 
 ####Marketing
 - [x] [2014] [Keynote speech 2014](https://www.youtube.com/watch?v=uJ51V93u84o) (IMUK) by **Gary Vaynerchuk** `48:01`
@@ -36,10 +37,11 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Affiliate
+- [x] [2014] [Entrepreneur, Discovered facebook](https://www.youtube.com/watch?v=Ax-WRfR1BkY) (Affiliate Summit) by **Peter Thiel** `49:23`
 - [x] [2013] [Wil Reynolds Keynote](https://www.youtube.com/watch?v=yl35kQEG_cM) (Affiliate Summit) by **Wil Reynolds** `01:15:48`
 - [x] [2013] [Landing Page Optimization / SEO](https://www.youtube.com/watch?v=Zgw4LGw61p0) (Affiliate Summit) by **Tim Ash** `01:10:56`
 - [x] [2013] [Entrepreneur, Speaker, Author](https://www.youtube.com/watch?v=IXDetTLXjGc) (Affiliate Summit) by **Randal Pinkett** `01:15:08`
-- [x] [2014] [Entrepreneur, Discovered facebook](https://www.youtube.com/watch?v=Ax-WRfR1BkY) (Affiliate Summit) by **Peter Thiel** `49:23`
+
 
 
 ####Uncategorized
