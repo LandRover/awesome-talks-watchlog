@@ -20,6 +20,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
 - [x] [**Dave Smith**: Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) (ng-conf) [2015] `19:26`
 - [x] [**Philip Roberts**: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (JSConf) [2014] `26:52`
+- [x] [**John Papa**: 10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) (Code on the Beach) [2014] `01:01:26`
 - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) [2013] `01:19:10`
 - [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) [2013] `29:31`
 - [ ] **Douglas Crockford**
