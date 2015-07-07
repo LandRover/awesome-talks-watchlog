@@ -5,6 +5,7 @@ I watch many online talks, I try to commit myself watching at least three new ta
 I'm a frontend developer so most of the topics I watch related to web development, javascript, node and other topics of sotware development around the web.
 
 These talks are mostly about programming but not only. The list contains also other aspects of sotware engineering such as business development, startups, leadership, management, technology as well as other topics that inspire me.
+
 ---
 
 
