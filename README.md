@@ -26,6 +26,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Philip Roberts**: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (JSConf) [2014] `26:52`
 - [x] [**Dan Lynch**: Large Scale JavaScript Application Architecture](https://www.youtube.com/watch?v=kNrnRG1YgAQ) (HTML5DevConf) [2014] `50:39`
 - [x] [**John Papa**: 10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) (Code on the Beach) [2014] `01:01:26`
+- [x] [**Michael Jackson**: Redemption from Callback Hell](https://www.youtube.com/watch?v=hf1T_AONQJU) (HTML5DevConf) [2013] `50:24`
 - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) [2013] `01:19:10`
 - [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) [2013] `29:31`
 - [ ] **Douglas Crockford**
