@@ -51,6 +51,16 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [Composer, Autoloading, Namespacing, and PHPUnit](https://www.youtube.com/watch?v=84j61_aI0q8) (Tuts+ Code) [2013] `23:53`
 
 
+####Python
+- [x] [**Raymond Hettinger**: Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) (PyCon) [2015] `52:04`
+- [x] [**Raymond Hettinger**: Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) (PyCon US) [2013] `48:50`
+
+  #####[ ] Julia
+    - [x] [**Dwight Browne**: Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) (PyGotham) [2014] `26:18`
+    - [x] [**Stephen Johnson**: Crossing Language Barriers with Julia, SciPy and IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) (EuroSciPy) [2014] `01:11:17`
+    - [x] [**Madeleine Udell**: Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) (JuliaCon) [2014] `40:11`
+
+
 ####Software Design
 - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
 - [x] [**Robert Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) [2011] `01:06:38`
