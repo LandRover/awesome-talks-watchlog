@@ -10,7 +10,9 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ###Software Development
+- [x] [**Kathy Sierra**: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM) (FluentConf) [2015] `23:03`
 - [x] [**Joe Armstrong**: The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) (StangeLoop) [2014] `45:49`
+
 
 ####Clean Code
 - [x] [**Robert Martin**: Clean Code I: Arguments](https://vimeo.com/13439458) (NDC) [2008] `53:33`
