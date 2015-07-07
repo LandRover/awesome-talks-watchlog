@@ -50,6 +50,7 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
 ####Web Development
+- [x] [**Paul Irish**: How Users Perceive the Speed of The Web](https://www.youtube.com/watch?v=2ksXo2_Lfl0) (FluentConf) [2015] `21:23`
 - [x] [**Iliyan Peychev**: HTTP 2.0 and QUIC - protocols of the (near) future](https://www.youtube.com/watch?v=qyexqwG6fGI) (JSConf EU) [2014] `28:05`
 - [x] [**Ilya Grigorik**: Yesterday's perf best-practices are today's HTTP/2 anti-patterns](https://www.youtube.com/watch?v=yURLTwZ3ehk) (Velocity) [2015] `47:23`
 
