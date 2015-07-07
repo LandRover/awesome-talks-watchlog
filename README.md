@@ -5,11 +5,14 @@ I watch many online talks, I try to commit myself watching at least three new ta
 I'm a frontend developer so most of the topics I watch related to web development, javascript, node and other topics of sotware development around the web.
 
 These talks are mostly about programming but not only. The list contains also other aspects of sotware engineering such as business development, startups, leadership, management, technology as well as other topics that inspire me.
-
-
 ---
 
+
 ###Software Development
+
+####Clean Code
+- [x] [**Robert Martin**: Clean Code I: Arguments](https://vimeo.com/13439458) (NDC) [2008] `53:33`
+- [x] [**Robert Martin**: Clean Code III: Functions](https://vimeo.com/12643301) (OREDEV) [2008] `51:30`
 
 
 ####Javascript
@@ -20,6 +23,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
 - [x] [**Dave Smith**: Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) (ng-conf) [2015] `19:26`
 - [x] [**Philip Roberts**: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (JSConf) [2014] `26:52`
+- [x] [**Dan Lynch**: Large Scale JavaScript Application Architecture](https://www.youtube.com/watch?v=kNrnRG1YgAQ) (HTML5DevConf) [2014] `50:39`
 - [x] [**John Papa**: 10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) (Code on the Beach) [2014] `01:01:26`
 - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) [2013] `01:19:10`
 - [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) [2013] `29:31`
@@ -37,6 +41,14 @@ These talks are mostly about programming but not only. The list contains also ot
   - Older
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
+####Web Development
+- [x] [**Iliyan Peychev**: HTTP 2.0 and QUIC - protocols of the (near) future](https://www.youtube.com/watch?v=qyexqwG6fGI) (JSConf EU) [2014] `28:05`
+- [x] [**Ilya Grigorik**: Yesterday's perf best-practices are today's HTTP/2 anti-patterns](https://www.youtube.com/watch?v=yURLTwZ3ehk) (Velocity) [2015] `47:23`
+
+
+####PHP
+- [x] [Composer, Autoloading, Namespacing, and PHPUnit](https://www.youtube.com/watch?v=84j61_aI0q8) (Tuts+ Code) [2013] `23:53`
+
 
 ####Software Design
 - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
@@ -44,6 +56,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Methodologies
+- [x] [**Robert Martin**: The S.O.L.I.D. Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) (Arlington Lakes) [2015] `01:12:11`
 - [x] [**Anders Ivarsson**: The Agile Engineering and Leadership Culture at Spotify](https://www.youtube.com/watch?v=9JAji1A1AmM) (XebiCon) [2015] `49:17`
 - [x] [**Chris Angove**: How Spotify Helps Their Engineers Grow](https://www.youtube.com/watch?v=qIIAZ1ZOnPA) (Hakka) [2014] `01:05:47`
 - [x] [**Dave Thomas**: The Death of Agile](https://www.youtube.com/watch?v=YpGGRAhes2k) (Rethink) [2014] `47:45`
@@ -59,9 +72,17 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) [2013] `27:59`
 - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
 
+
 ####TDD
 - [x] [**Jimmy Bogard**: Holistic testing](http://vimeo.com/68390508) (NDC) [2013] `1:00:33`
 - [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
+
+
+####VIM
+- [x] [**Chris Maiden**: Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) (DCNW) [2013] `41:07`
+- [x] [**Martin Brochhaus**: Vim as python IDE](https://www.youtube.com/watch?v=YhqsjUUHj6g) (PyCon) [2012] `36:43`
+- [x] [**Damian Conway**: More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) (OSCON) [2012] `38:50`
+- [x] [**Ben Orenstein**: Write code faster: expert-level viml](https://www.youtube.com/watch?v=SkdrYWhh-8s) (Railsberry) [2012] `41:08`
 
 
 ***
@@ -127,12 +148,13 @@ These talks are mostly about programming but not only. The list contains also ot
   - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
   - [Programming Talks](https://github.com/hellerve/programming-talks)
   - [Awesome Talks](https://github.com/JanVanRyswyck/awesome-talks)
+  - [Awesome Media](https://github.com/etmoore/awesome-media)
   - [PHP Must Watch](https://github.com/phptodayorg/php-must-watch)
   - [django Must Watch](https://github.com/rosarior/django-must-watch)
   - [Python Must Watch](https://github.com/s16h/py-must-watch)
   - [Symfony Must Watch](https://github.com/symfony-si/symfony-must-watch)
   - [JSConf](https://www.youtube.com/user/jsconfeu)
- 
+
  - Other
   - [Startup Grind](https://www.youtube.com/user/StartupGrind)
   - [Creative Mornings](https://www.youtube.com/user/Creativemornings)
