@@ -10,6 +10,9 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ###Software Development
+- [x] [Lifting the Curtain: the Data Infrastructure Behind Facebook Apps](https://www.youtube.com/watch?v=T9YbeJ4DMuM) (F8) [2015] `46:38`
+- [x] [Big Code: Developer Infrastructure at Facebook's Scale](https://www.youtube.com/watch?v=X0VH78ye4yY) (F8) [2015] `46:21`
+- [x] [Move Fast: Ensuring Mobile Performance Without Breaking Things](https://www.youtube.com/watch?v=htGxYO155rQ) (F8) [2015] `37:35`
 - [x] [**Kathy Sierra**: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM) (FluentConf) [2015] `23:03`
 - [x] [**Joe Armstrong**: The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) (StrangeLoop) [2014] `45:49`
 - [x] [**Scott Hanselman**: Scaling Yourself: "It's not what you read, it's what you ignore"](https://www.youtube.com/watch?v=IWPgUn8tL8s) (DevDay) [2012] `01:01:52`
@@ -129,6 +132,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Technology
+- [x] [**Michael Abrash**: Why Virtual Reality Will Matter to You](https://www.youtube.com/watch?v=UDu-cnXI8E8) (F8) [2015] `01:16:42`
 - [x] [**Chris Urmson**: How a driverless car sees the road](https://www.youtube.com/watch?v=tiwVMrTLUWg) (TED) [2015] `15:29`
 
 
