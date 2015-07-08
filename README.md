@@ -25,6 +25,8 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Andre Staltz**: What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) (JSConf) [2015] `32:18`
 - [x] [**Addy Osmani**: Polymer and modern web APIs](https://www.youtube.com/watch?v=fD2As5RmM8Q) (I/O) [2015] `46:27`
 - [x] [**Stuart Harris**: Getting Started with React.js](https://www.youtube.com/watch?v=8HkVHbJZeWY) (JSConf) [2015] `46:29`
+- [x] **Axel Rauschmayer**: Using ECMAScript 6 today (RSConf) [2015]
+  - [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) `40:44` | [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) `53:04`
 - [x] [**Pete Hunt**: Full Stack Flux](https://www.youtube.com/watch?v=KtmjkCuV-EU) (React.js) [2015] `32:34`
 - [x] [**Ryan Florence**: Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg) (React.js) [2015] `31:16`
 - [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
