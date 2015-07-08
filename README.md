@@ -12,6 +12,7 @@ These talks are mostly about programming but not only. The list contains also ot
 ###Software Development
 - [x] [**Kathy Sierra**: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM) (FluentConf) [2015] `23:03`
 - [x] [**Joe Armstrong**: The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) (StrangeLoop) [2014] `45:49`
+- [x] [**Scott Hanselman**: Scaling Yourself: "It's not what you read, it's what you ignore"](https://www.youtube.com/watch?v=IWPgUn8tL8s) (DevDay) [2012] `01:01:52`
 
 
 ####Clean Code
