@@ -73,10 +73,11 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [**Madeleine Udell**: Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) (JuliaCon) [2014] `40:11`
 
 
-####Software Design
+####Design
 - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
+- [x] [**Katrina Owen**: Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) (RubyConf) [2012] `26:04`
 - [x] [**Robert Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) [2011] `01:06:38`
-
+- [x] [**Josh Bloch**: How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw) (GoogleTalks) [2007] `01:00:18`
 
 ####Methodologies
 - [x] [**Robert Martin**: The S.O.L.I.D. Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) (Arlington Lakes) [2015] `01:12:11`
