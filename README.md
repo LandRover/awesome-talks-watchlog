@@ -59,6 +59,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ####PHP
 - [x] [Composer, Autoloading, Namespacing, and PHPUnit](https://www.youtube.com/watch?v=84j61_aI0q8) (Tuts+ Code) [2013] `23:53`
+- [x] [**Alvaro Videla**: RabbitMQ Hands On](https://www.youtube.com/watch?v=dAzsbZO7nnU) (PHPUK) [2013] `47:26`
 
 
 ####Python
