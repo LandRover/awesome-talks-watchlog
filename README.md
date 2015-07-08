@@ -11,7 +11,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ###Software Development
 - [x] [**Kathy Sierra**: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM) (FluentConf) [2015] `23:03`
-- [x] [**Joe Armstrong**: The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) (StangeLoop) [2014] `45:49`
+- [x] [**Joe Armstrong**: The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) (StrangeLoop) [2014] `45:49`
 
 
 ####Clean Code
@@ -110,6 +110,8 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Ben Orenstein**: Write code faster: expert-level viml](https://www.youtube.com/watch?v=SkdrYWhh-8s) (Railsberry) [2012] `41:08`
 
 ####Docker
+- [x] [**David Greenberg**: "Mesos: The Operating System for your Cluster"](https://www.youtube.com/watch?v=gVGZHzRjvo0) (StrangeLoop) [2015] `42:03
+- [x] [**Alex Rukletsov**: Building Web Scale Apps with Docker & Mesos](https://www.youtube.com/watch?v=UdHG170jBxs) (DockerConf) [2015] `40:01`
 - [x] [**Luke Bond**: Node.js & Docker](https://www.youtube.com/watch?v=d8Y9pts7IHI) (lx) [2015] `28:41`
 - [x] [**eBay's Team**: Delivering eBay's CI solution with Apache Mesos & Docker](https://www.youtube.com/watch?v=VZPbLUJnR68) (Dockercon) [2014] `27:35`
 - [x] [**Jerome Petazzoni**: Docker for Developers](https://www.youtube.com/watch?v=) (FdkNAjjO5yQ) [2014] `54:26`
