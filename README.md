@@ -116,7 +116,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**eBay's Team**: Delivering eBay's CI solution with Apache Mesos & Docker](https://www.youtube.com/watch?v=VZPbLUJnR68) (Dockercon) [2014] `27:35`
 - [x] [**John Wilkes**: Cluster Management at Google](https://www.youtube.com/watch?v=VQAAkO5B5Hg) (MesosCon) [2014] `42:34`
 - [x] [**Paco Nathan**: An Introduction to Mesos](https://www.youtube.com/watch?v=r_IvQRTp--s) (SearsHQ) [2014] `01:17:02`
-- [x] [**Jerome Petazzoni**: Docker for Developers](https://www.youtube.com/watch?v=) (https://www.youtube.com/watch?v=FdkNAjjO5yQ) [2014] `54:26`
+- [x] [**Jerome Petazzoni**: Docker for Developers](https://www.youtube.com/watch?v=FdkNAjjO5yQ) (Cerner) [2014] `54:26`
 - [x] [**Solomon Hykes**: Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) (Twitter) [2013] `47:13`
 - [x] [**Rohan Singh**: Docker at Spotify](https://www.youtube.com/watch?v=pts6F00GFuU) (Twitter) [2013] `10:48`
 
