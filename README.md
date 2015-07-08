@@ -108,6 +108,13 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Damian Conway**: More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) (OSCON) [2012] `38:50`
 - [x] [**Ben Orenstein**: Write code faster: expert-level viml](https://www.youtube.com/watch?v=SkdrYWhh-8s) (Railsberry) [2012] `41:08`
 
+####Docker
+- [x] [**Luke Bond**: Node.js & Docker](https://www.youtube.com/watch?v=d8Y9pts7IHI) (lx) [2015] `28:41`
+- [x] [**eBay's Team**: Delivering eBay's CI solution with Apache Mesos & Docker](https://www.youtube.com/watch?v=VZPbLUJnR68) (Dockercon) [2014] `27:35`
+- [x] [**Jerome Petazzoni**: Docker for Developers](https://www.youtube.com/watch?v=) (FdkNAjjO5yQ) [2014] `54:26`
+- [x] [**Solomon Hykes**: Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) (Twitter) [2013] `47:13`
+- [x] [**Rohan Singh**: Docker at Spotify](https://www.youtube.com/watch?v=pts6F00GFuU) (Twitter) [2013] `10:48`
+
 
 ***
 
