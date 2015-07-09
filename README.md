@@ -82,6 +82,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
 - [x] [**Katrina Owen**: Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) (RubyConf) [2012] `26:04`
 - [x] [**Robert Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) [2011] `01:06:38`
+- [x] [**Michael Feathers**: The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) (NDC) [2010] `50:49`
 - [x] [**Josh Bloch**: How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw) (GoogleTalks) [2007] `01:00:18`
 
 ####Methodologies
