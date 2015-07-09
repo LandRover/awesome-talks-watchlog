@@ -27,6 +27,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Andreas Gal**: Dirty Performance Secrets of HTML5](https://www.youtube.com/watch?v=t8x40JXUeWA) (FluentConf) [2015] `14:15`
 - [x] [**Brendan Eich**: ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw) (FluentConf) [2015] `19:17`
 - [x] [**Andre Staltz**: What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) (JSConf) [2015] `32:18`
+- [x] [**Sebastian McKenzie**: JavaScript Transformation](https://www.youtube.com/watch?v=rKuNbEwoQfQ) (JSConfUS) [2015] `20:23`
 - [x] [**Addy Osmani**: Polymer and modern web APIs](https://www.youtube.com/watch?v=fD2As5RmM8Q) (I/O) [2015] `46:27`
 - [x] [**Stuart Harris**: Getting Started with React.js](https://www.youtube.com/watch?v=8HkVHbJZeWY) (JSConf) [2015] `46:29`
 - [x] **Axel Rauschmayer**: Using ECMAScript 6 today (RSConf) [2015]
