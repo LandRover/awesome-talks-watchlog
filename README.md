@@ -119,6 +119,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Ben Orenstein**: Write code faster: expert-level viml](https://www.youtube.com/watch?v=SkdrYWhh-8s) (Railsberry) [2012] `41:08`
 
 ####Deployment and IT
+- [x] [**Brian Dorsey**: Docker Containers and Kubernetes](https://www.youtube.com/watch?v=Fcb4aoSAZ98) (eventName) [2015] `34:35`
+- [x] [**Brendan Burns**: A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (CoreOS Fest) [2015] `30:30`
+- [x] [**Kelsey Hightower**: Kubernetes on bare metal with CoreOS](https://www.youtube.com/watch?v=) (Meetup) [2015] `18:13`
+- [x] [**Craig Mcluckie**: Kubernetes in 2015](https://www.youtube.com/watch?v=q8lGZCKktYo) (Meetup) [2015] `11:26`
 - [x] [**David Greenberg**: "Mesos: The Operating System for your Cluster"](https://www.youtube.com/watch?v=gVGZHzRjvo0) (StrangeLoop) [2015] `42:03`
 - [x] [**Alex Rukletsov**: Building Web Scale Apps with Docker & Mesos](https://www.youtube.com/watch?v=UdHG170jBxs) (DockerConf) [2015] `40:01`
 - [x] [**Luke Bond**: Node.js & Docker](https://www.youtube.com/watch?v=d8Y9pts7IHI) (lx) [2015] `28:41`
