@@ -83,6 +83,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ####Design
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
+- [x] [**Venkat Subramaniam**: Core Software Design Principles](https://vimeo.com/97541185) (NDC) [2014] `01:03:56`
 - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
 - [x] [**Leslie Lamport**: Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) (Faculty) [2014] `59:50`
 - [x] [**Katrina Owen**: Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) (RubyConf) [2012] `26:04`
