@@ -91,6 +91,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Michael Feathers**: The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) (NDC) [2010] `50:49`
 - [x] [**Josh Bloch**: How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw) (GoogleTalks) [2007] `01:00:18`
 
+
 ####Methodologies
 - [x] [**Robert Martin**: The S.O.L.I.D. Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) (Arlington Lakes) [2015] `01:12:11`
 - [x] [**Anders Ivarsson**: The Agile Engineering and Leadership Culture at Spotify](https://www.youtube.com/watch?v=9JAji1A1AmM) (XebiCon) [2015] `49:17`
@@ -114,12 +115,15 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Jimmy Bogard**: Holistic testing](http://vimeo.com/68390508) (NDC) [2013] `1:00:33`
 - [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
 
+####Machine Learning
+- [x] [**Xavier Amatriain**: Machine Learning at Quora](https://www.youtube.com/watch?v=sPsPZyx28VE) (-) [2015] `31:40`
 
 ####VIM
 - [x] [**Chris Maiden**: Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) (DCNW) [2013] `41:07`
 - [x] [**Martin Brochhaus**: Vim as python IDE](https://www.youtube.com/watch?v=YhqsjUUHj6g) (PyCon) [2012] `36:43`
 - [x] [**Damian Conway**: More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) (OSCON) [2012] `38:50`
 - [x] [**Ben Orenstein**: Write code faster: expert-level viml](https://www.youtube.com/watch?v=SkdrYWhh-8s) (Railsberry) [2012] `41:08`
+
 
 ####Deployment and IT
 - [x] [**Brian Dorsey**: Docker Containers and Kubernetes](https://www.youtube.com/watch?v=Fcb4aoSAZ98) (eventName) [2015] `34:35`
