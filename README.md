@@ -24,6 +24,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Javascript
+- [x] [**Glen Maddern**: Javascript in 2015 (JSPM, SystemJS, ES6..)](https://www.youtube.com/watch?v=iukBMY4apvI) (-) [2015] `10:32`
 - [x] [**Andreas Gal**: Dirty Performance Secrets of HTML5](https://www.youtube.com/watch?v=t8x40JXUeWA) (FluentConf) [2015] `14:15`
 - [x] [**Brendan Eich**: ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw) (FluentConf) [2015] `19:17`
 - [x] [**Andre Staltz**: What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) (JSConf) [2015] `32:18`
