@@ -37,6 +37,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Ryan Florence**: Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg) (React.js) [2015] `31:16`
 - [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
 - [x] [**Dave Smith**: Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) (ng-conf) [2015] `19:26`
+- [x] [**Eric Bidelman**: Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) (I/O) [2014] `36:12`
 - [x] [**Philip Roberts**: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (JSConf) [2014] `26:52`
 - [x] [**Dan Lynch**: Large Scale JavaScript Application Architecture](https://www.youtube.com/watch?v=kNrnRG1YgAQ) (HTML5DevConf) [2014] `50:39`
 - [x] [**Trevor Landau**: Functional JS](https://www.youtube.com/watch?v=XXZA6b8y8kM) (jQuery) [2014] `47:06`
