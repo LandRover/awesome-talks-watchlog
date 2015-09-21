@@ -16,7 +16,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Kathy Sierra**: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM) (FluentConf) [2015] `23:03`
 - [x] [**Joe Armstrong**: The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) (StrangeLoop) [2014] `45:49`
 - [x] [**Scott Hanselman**: Scaling Yourself: "It's not what you read, it's what you ignore"](https://www.youtube.com/watch?v=IWPgUn8tL8s) (DevDay) [2012] `01:01:52`
-- [x] [**Lea Verou**: /Reg(exp){2}lained/: Demystifying Regular Expressions"](https://www.youtube.com/watch?v=EkluES9Rvak) (Fluent) [2012] `48:18`
+- [x] [**Lea Verou**: /Reg(exp){2}lained/: Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak) (Fluent) [2012] `48:18`
 
 ####Clean Code
 - [x] [**Robert Martin**: Clean Code I: Arguments](https://vimeo.com/13439458) (NDC) [2008] `53:33`
