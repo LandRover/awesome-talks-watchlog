@@ -204,9 +204,25 @@ These talks are mostly about programming but not only. The list contains also ot
 #####General
  - [x] [Startup (Alex Blumberg)](https://gimletmedia.com/show/startup/)
  - [x] [Making History](http://www.ranlevi.com)
+ - [x] [Serial](http://serialpodcast.org)
+ - [x] [This American Life](http://www.thisamericanlife.org)
+ - [x] [Israeli Story](http://israelstory.org)
+ - [x] [Criminal](http://thisiscriminal.com)
+ - [x] [Stuff You Should Know](http://www.stuffyoushouldknow.com)
 
 #####Software Related
  - [x] [Full Stack Radio](http://www.fullstackradio.com)
+ - [x] [Laravel Podcast](http://www.laravelpodcast.com)
+ - [x] [/dev/hell](http://devhell.info)
+ - [x] [MageTalk: A Magento Podcast](http://magetalk.com)
+ - [x] [Run Geek Radio with Adam Culp](https://rungeekradio.com)
+ - [x] [That Podcast with Beau & Dave](https://thatpodcast.io)
+ - [x] [Three Devs and a Maybe](http://threedevsandamaybe.com)
+ - [x] [ShopTalk Show](http://shoptalkshow.com)
+ - [x] [Voices of the ElePHPant](https://voicesoftheelephpant.com/)
+ - [x] [Software Engineering Radio](http://www.se-radio.net)
+ - [x] [Coing Blocks](http://codingblocks.com)
+ - [x] [.NET Rocks](https://www.dotnetrocks.com)
  - [x] [SQL Server Radio](http://www.sqlserverradio.com)
 
 ####Template
