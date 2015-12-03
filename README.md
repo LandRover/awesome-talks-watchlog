@@ -199,8 +199,11 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Michio Kaku**: The Universe in a Nutshell](https://www.youtube.com/watch?v=0NbBjNiw4tk) (Big Think) [2012] `42:13`
 
 ####Podcasts
+#####General
  - [x] [Startup (Alex Blumberg)](https://gimletmedia.com/show/startup/)
  - [x] [Making History](http://www.ranlevi.com)
+#####Software Related
+ - [x] [Full Stack Radio](http://www.fullstackradio.com)
  - [x] [SQL Server Radio](http://www.sqlserverradio.com)
 
 ####Template
