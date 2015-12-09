@@ -25,6 +25,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ####Javascript
 - [x] [**Brock Allen**: Authentication and authorization in modern JavaScript web applications – how hard can it be?](https://www.youtube.com/watch?v=s_yE-ZvrU_U) (NDC) [2015] `01:01:12`
+- [x] [**Elijah Manor**: Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo) (Fluent) [2015] `29:15`
 - [x] [**Glen Maddern**: Javascript in 2015 (JSPM, SystemJS, ES6..)](https://www.youtube.com/watch?v=iukBMY4apvI) (-) [2015] `10:32`
 - [x] [**Andreas Gal**: Dirty Performance Secrets of HTML5](https://www.youtube.com/watch?v=t8x40JXUeWA) (FluentConf) [2015] `14:15`
 - [x] [**Brendan Eich**: ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw) (FluentConf) [2015] `19:17`
