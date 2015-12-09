@@ -213,6 +213,8 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Stuff You Should Know](http://www.stuffyoushouldknow.com)
 
 #####Software Related
+
+######PHP / Javascript
  - [x] [Full Stack Radio](http://www.fullstackradio.com)
  - [x] [Laravel Podcast](http://www.laravelpodcast.com)
  - [x] [/dev/hell](http://devhell.info)
@@ -224,6 +226,8 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Voices of the ElePHPant](https://voicesoftheelephpant.com/)
  - [x] [Software Engineering Radio](http://www.se-radio.net)
  - [x] [Coing Blocks](http://codingblocks.com)
+
+######.NET
  - [x] [.NET Rocks](https://www.dotnetrocks.com)
  - [x] [SQL Server Radio](http://www.sqlserverradio.com)
 
