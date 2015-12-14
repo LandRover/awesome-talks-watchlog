@@ -115,6 +115,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
 
 
+####Functional Programing
+- [x] [**Noel Rappin**: But Really, You Should Learn Smalltalk](https://www.youtube.com/watch?v=eGaKZBr0ga4) (MountainWest RubyConf) [2014] `28:05`
+
+
 ####TDD
 - [x] [**Jimmy Bogard**: Holistic testing](http://vimeo.com/68390508) (NDC) [2013] `1:00:33`
 - [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
