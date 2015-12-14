@@ -163,6 +163,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Rod Johnson**: Things I Wish I'd Known](https://www.youtube.com/watch?v=cZHZm8JgTBk) (GOTO) [2014] `01:00:16`
 
 
+####Management
+- [x] [**Andy Grove**: Lecture](https://www.youtube.com/watch?v=dyN4TQqjcto) (Kuh) [2012] `01:12:17`
+
+
 ####Leadership
 - [x] [**Simon Sinek**: On Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) [2014] `14:51`
 - [x] [**Simon Sinek**: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) [2013] `45:50`
