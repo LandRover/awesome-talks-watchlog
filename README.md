@@ -168,6 +168,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Management
+- [x] [**Nickolas Means**: How to Crash an Airplane](https://www.youtube.com/watch?v=S2FUSr3WlPk) (RubyConf) [2015] `42:11`
 - [x] [**Andy Grove**: Lecture](https://www.youtube.com/watch?v=dyN4TQqjcto) (Kuh) [2012] `01:12:17`
 
 
