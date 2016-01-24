@@ -111,6 +111,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Object-Oriented
+- [x] [**Kevlin Henney**: Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) (NDC) [2014] `1:02:51`
 - [x] [**Venkat Subramaniam**: Functional Programming - Technical reasons to adapt](https://www.youtube.com/watch?v=3-UgraLNC2g) (CodeDive) [2014] `01:13:52`
 - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) [2013] `27:59`
 - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
