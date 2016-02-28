@@ -76,9 +76,8 @@ These talks are mostly about programming but not only. The list contains also ot
 ####Python
 - [x] [**Raymond Hettinger**: Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) (PyCon) [2015] `52:04`
 - [x] [**Kenneth Reitz**: Python for Humans](https://www.youtube.com/watch?v=bpZS9ehw98k) (Chipy) [2014] `49:45`
-- [x] [**Raymond Hettinger**: Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) (PyCon US) [2013] `48:50`
 - [x] [**Laurens Van Houtven**: Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) (PyCon US) [2013] `45:38`
-
+- [x] [**Raymond Hettinger**: Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) (PyCon US) [2013] `48:50`
 
   #####Julia
     - [x] [**Dwight Browne**: Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) (PyGotham) [2014] `26:18`
