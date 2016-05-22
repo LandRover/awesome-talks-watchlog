@@ -168,6 +168,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ####Start Up
 - [x] [**Sam Altman**: Sam Altman, President of Y Combinator](https://www.youtube.com/watch?v=y-otm4RJHyc) (WashU Engineering) [2016] `59:36`
+- [x] [**Sam Altman**: What Makes The Best Founders](https://www.youtube.com/watch?v=CxKXJWf-WMg) (Blitzscaling) [2015] `01:12:25`
 - [x] [**Gigi Levy**: Startup Grind Tel Aviv Hosts Gigi](https://www.youtube.com/watch?v=RJLcurD4q70) (Startup Grind) [2014] `01:14:16`
 - [x] [**Rod Johnson**: Things I Wish I'd Known](https://www.youtube.com/watch?v=cZHZm8JgTBk) (GOTO) [2014] `01:00:16`
 
