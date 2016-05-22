@@ -188,6 +188,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Self Motivation
+- [x] [**Daniel Kahneman**: The riddle of experience vs. memory](https://www.youtube.com/watch?v=XgRlrBl-7Yg) (TED2010) [2010] `20:36`
 - [x] [**Julie Gurner**: Keynote at Affiliate Summit East 2014](https://www.youtube.com/watch?v=jMF7KT1STEs) (Aff. Summit) [2014] `49:26`
 - [x] [**Tina Seelig**: The 6 Characteristics of Truly Creative People](https://www.youtube.com/watch?v=CgCdsERkqrc) (99%) [2014] `20:09`
 - [x] [**Gretchen Rubin**: The 4 Ways to Successfully Adopt New Habits](https://www.youtube.com/watch?v=gBNEVXg2CNU) (99%) [2014] `18:03`
