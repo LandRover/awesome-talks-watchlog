@@ -104,10 +104,12 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Dave Thomas**: The Death of Agile](https://www.youtube.com/watch?v=YpGGRAhes2k) (Rethink) [2014] `47:45`
 - [x] **Henrik Kniberg**: Spotify Engineering Culture (Training & Development)] [2014]
   - [Part 1](https://www.youtube.com/watch?v=Mpsn3WaI_4k) `13:12` | [Part 2](https://www.youtube.com/watch?v=X3rGdmoTjDc) `13:28`
+- [x] [**Rich Hickey**: Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) (Rails Conf) [2012] `36:53`
 - [x] [**Robert Martin**: Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) (Elapse) [2012] `45:03`
 - [x] [**Alistair Cockburn**: Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) (Aglie) [2012] `53:04`
 - [x] [**Robert Martin**: The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) (NDC) [2011] `45:41`
 - [x] [**Michael Feathers**: The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) (NDC) [2011] `53:50`
+- [x] [**Rich Hickey**: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (Strange Loop) [2011] `01:01:26`
 
 
 ####Object-Oriented
@@ -188,13 +190,13 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ####Self Motivation
-- [x] [**Daniel Kahneman**: The riddle of experience vs. memory](https://www.youtube.com/watch?v=XgRlrBl-7Yg) (TED2010) [2010] `20:36`
 - [x] [**Julie Gurner**: Keynote at Affiliate Summit East 2014](https://www.youtube.com/watch?v=jMF7KT1STEs) (Aff. Summit) [2014] `49:26`
 - [x] [**Tina Seelig**: The 6 Characteristics of Truly Creative People](https://www.youtube.com/watch?v=CgCdsERkqrc) (99%) [2014] `20:09`
 - [x] [**Gretchen Rubin**: The 4 Ways to Successfully Adopt New Habits](https://www.youtube.com/watch?v=gBNEVXg2CNU) (99%) [2014] `18:03`
 - [x] [**Matt Heafy**: Faliure](https://www.youtube.com/watch?v=v8iuAfyjAkA) (Creative Mornings) [2014] `37:08`
 - [x] [**Justin Vining**: Optimizing his painting business](https://www.youtube.com/watch?v=mu5S0QCs-qs) (Creative Mornings) [2014] `40:20`
 - [x] [**Margo Kane**: Education, Experience, and Performing Arts](https://www.youtube.com/watch?v=J5igrc0wTzY) (Creative Mornings) [2014] `52:04`
+- [x] [**Daniel Kahneman**: The riddle of experience vs. memory](https://www.youtube.com/watch?v=XgRlrBl-7Yg) (TED2010) [2010] `20:36`
 
 
 ####Affiliate
