@@ -220,6 +220,8 @@ These talks are mostly about programming but not only. The list contains also ot
 ####Podcasts
 
 #####General
+ - [x] [Radiolab](http://www.radiolab.org) 
+ - [x] [S-Emek](http://semek.podbean.com)
  - [x] [Shavua (Startups Podcast)](http://www.shavua.net)
  - [x] [Startup (Alex Blumberg)](https://gimletmedia.com/show/startup/)
  - [x] [Making History](http://www.ranlevi.com)
