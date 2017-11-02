@@ -1,4 +1,4 @@
-#Awesome talks - personal watch log
+# Awesome talks - personal watch log
 
 I watch many online talks, I try to commit myself watching at least three new talks every week. I decided it's time to share the list and also keep track of my progress publicly. The list below is a list of talks that I really enjoyed watching and would like my friends, coworkers and anyone who is interested in it to watch too.
 
@@ -9,7 +9,7 @@ These talks are mostly about programming but not only. The list contains also ot
 ---
 
 
-###Software Development
+### Software Development
 - [x] [Lifting the Curtain: the Data Infrastructure Behind Facebook Apps](https://www.youtube.com/watch?v=T9YbeJ4DMuM) (F8) [2015] `46:38`
 - [x] [Big Code: Developer Infrastructure at Facebook's Scale](https://www.youtube.com/watch?v=X0VH78ye4yY) (F8) [2015] `46:21`
 - [x] [Move Fast: Ensuring Mobile Performance Without Breaking Things](https://www.youtube.com/watch?v=htGxYO155rQ) (F8) [2015] `37:35`
@@ -18,12 +18,13 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Scott Hanselman**: Scaling Yourself: "It's not what you read, it's what you ignore"](https://www.youtube.com/watch?v=IWPgUn8tL8s) (DevDay) [2012] `01:01:52`
 - [x] [**Lea Verou**: /Reg(exp){2}lained/: Demystifying Regular Expressions](https://www.youtube.com/watch?v=EkluES9Rvak) (Fluent) [2012] `48:18`
 
-####Clean Code
+#### Clean Code
 - [x] [**Robert Martin**: Clean Code I: Arguments](https://vimeo.com/13439458) (NDC) [2008] `53:33`
 - [x] [**Robert Martin**: Clean Code III: Functions](https://vimeo.com/12643301) (OREDEV) [2008] `51:30`
 
 
-####Javascript
+#### Javascript
+- [x] [**Lin Clark**: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) (React Conf) [2017] `31:47`
 - [x] [**Brock Allen**: Authentication and authorization in modern JavaScript web applications – how hard can it be?](https://www.youtube.com/watch?v=s_yE-ZvrU_U) (NDC) [2015] `01:01:12`
 - [x] [**Elijah Manor**: Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo) (Fluent) [2015] `29:15`
 - [x] [**Glen Maddern**: Javascript in 2015 (JSPM, SystemJS, ES6..)](https://www.youtube.com/watch?v=iukBMY4apvI) (-) [2015] `10:32`
@@ -62,18 +63,18 @@ These talks are mostly about programming but not only. The list contains also ot
   - Older
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
-####Web Development
+#### Web Development
 - [x] [**Paul Irish**: How Users Perceive the Speed of The Web](https://www.youtube.com/watch?v=2ksXo2_Lfl0) (FluentConf) [2015] `21:23`
 - [x] [**Iliyan Peychev**: HTTP 2.0 and QUIC - protocols of the (near) future](https://www.youtube.com/watch?v=qyexqwG6fGI) (JSConf EU) [2014] `28:05`
 - [x] [**Ilya Grigorik**: Yesterday's perf best-practices are today's HTTP/2 anti-patterns](https://www.youtube.com/watch?v=yURLTwZ3ehk) (Velocity) [2015] `47:23`
 
 
-####PHP
+#### PHP
 - [x] [Composer, Autoloading, Namespacing, and PHPUnit](https://www.youtube.com/watch?v=84j61_aI0q8) (Tuts+ Code) [2013] `23:53`
 - [x] [**Alvaro Videla**: RabbitMQ Hands On](https://www.youtube.com/watch?v=dAzsbZO7nnU) (PHPUK) [2013] `47:26`
 
 
-####Python
+#### Python
 - [x] [**Raymond Hettinger**: Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) (PyCon) [2015] `52:04`
 - [x] [**Kenneth Reitz**: Python for Humans](https://www.youtube.com/watch?v=bpZS9ehw98k) (Chipy) [2014] `49:45`
 - [x] [**Laurens Van Houtven**: Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) (PyCon US) [2013] `45:38`
@@ -85,7 +86,7 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [**Madeleine Udell**: Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) (JuliaCon) [2014] `40:11`
 
 
-####Design
+#### Design
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
 - [x] [**Erik Dornenburg**: Architecture without Architects](https://www.youtube.com/watch?v=qVyt3qQ_7TA) (FooCafe) [2014] `52:00`
 - [x] [**Venkat Subramaniam**: Core Software Design Principles](https://vimeo.com/97541185) (NDC) [2014] `01:03:56`
@@ -97,7 +98,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Josh Bloch**: How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw) (GoogleTalks) [2007] `01:00:18`
 
 
-####Methodologies
+#### Methodologies
 - [x] [**Robert Martin**: The S.O.L.I.D. Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) (Arlington Lakes) [2015] `01:12:11`
 - [x] [**Anders Ivarsson**: The Agile Engineering and Leadership Culture at Spotify](https://www.youtube.com/watch?v=9JAji1A1AmM) (XebiCon) [2015] `49:17`
 - [x] [**Chris Angove**: How Spotify Helps Their Engineers Grow](https://www.youtube.com/watch?v=qIIAZ1ZOnPA) (Hakka) [2014] `01:05:47`
@@ -111,38 +112,38 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Michael Feathers**: The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) (NDC) [2011] `53:50`
 - [x] [**Rich Hickey**: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (Strange Loop) [2011] `01:01:26`
 
-  #####*Scrum
+  ##### *Scrum
     - [x] [**Henrik Kniberg**: Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) (-) [2012] `15:51`
     - [x] [**Extra Credits**: Fail Faster - A Mantra for Creative Thinkers](https://www.youtube.com/watch?v=rDjrOaoHz9s) (-) [2014] `4:23`
     - [x] [**Silicon Valley**: S01E05 Scrum Scene](https://www.youtube.com/watch?v=oyVksFviJVE) (-) [2014] `2:50`
 
 
-####Object-Oriented
+#### Object-Oriented
 - [x] [**Kevlin Henney**: Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) (NDC) [2014] `1:02:51`
 - [x] [**Venkat Subramaniam**: Functional Programming - Technical reasons to adapt](https://www.youtube.com/watch?v=3-UgraLNC2g) (CodeDive) [2014] `01:13:52`
 - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) [2013] `27:59`
 - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
 
 
-####Functional Programing
+#### Functional Programing
 - [x] [**Noel Rappin**: But Really, You Should Learn Smalltalk](https://www.youtube.com/watch?v=eGaKZBr0ga4) (MountainWest RubyConf) [2014] `28:05`
 
 
-####TDD
+#### TDD
 - [x] [**Jimmy Bogard**: Holistic testing](http://vimeo.com/68390508) (NDC) [2013] `1:00:33`
 - [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
 
 ####Machine Learning
 - [x] [**Xavier Amatriain**: Machine Learning at Quora](https://www.youtube.com/watch?v=sPsPZyx28VE) (-) [2015] `31:40`
 
-####VIM
+#### VIM
 - [x] [**Chris Maiden**: Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) (DCNW) [2013] `41:07`
 - [x] [**Martin Brochhaus**: Vim as python IDE](https://www.youtube.com/watch?v=YhqsjUUHj6g) (PyCon) [2012] `36:43`
 - [x] [**Damian Conway**: More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) (OSCON) [2012] `38:50`
 - [x] [**Ben Orenstein**: Write code faster: expert-level viml](https://www.youtube.com/watch?v=SkdrYWhh-8s) (Railsberry) [2012] `41:08`
 
 
-####Deployment and IT
+#### Deployment and IT
 - [x] [**Brian Dorsey**: Docker Containers and Kubernetes](https://www.youtube.com/watch?v=Fcb4aoSAZ98) (eventName) [2015] `34:35`
 - [x] [**Brendan Burns**: A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (CoreOS Fest) [2015] `30:30`
 - [x] [**Kelsey Hightower**: Kubernetes on bare metal with CoreOS](https://www.youtube.com/watch?v=) (Meetup) [2015] `18:13`
@@ -163,22 +164,22 @@ These talks are mostly about programming but not only. The list contains also ot
 ***
 
 
-###Other
+### Other
 
 
-####Technology
+#### Technology
 - [x] [**Michael Abrash**: Why Virtual Reality Will Matter to You](https://www.youtube.com/watch?v=UDu-cnXI8E8) (F8) [2015] `01:16:42`
 - [x] [**Chris Urmson**: How a driverless car sees the road](https://www.youtube.com/watch?v=tiwVMrTLUWg) (TED) [2015] `15:29`
 
 
-####Start Up
+#### Start Up
 - [x] [**Sam Altman**: Sam Altman, President of Y Combinator](https://www.youtube.com/watch?v=y-otm4RJHyc) (WashU Engineering) [2016] `59:36`
 - [x] [**Sam Altman**: What Makes The Best Founders](https://www.youtube.com/watch?v=CxKXJWf-WMg) (Blitzscaling) [2015] `01:12:25`
 - [x] [**Gigi Levy**: Startup Grind Tel Aviv Hosts Gigi](https://www.youtube.com/watch?v=RJLcurD4q70) (Startup Grind) [2014] `01:14:16`
 - [x] [**Rod Johnson**: Things I Wish I'd Known](https://www.youtube.com/watch?v=cZHZm8JgTBk) (GOTO) [2014] `01:00:16`
 
 
-####Management
+#### Management
 - [x] [**Nickolas Means**: How to Crash an Airplane](https://www.youtube.com/watch?v=S2FUSr3WlPk) (RubyConf) [2015] `42:11`
 - [x] [**Andy Grove**: Lecture](https://www.youtube.com/watch?v=dyN4TQqjcto) (Kuh) [2012] `01:12:17`
 
@@ -191,12 +192,12 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) [2011] `30:40`
 
 
-####Marketing
+#### Marketing
 - [x] [**Gary Vaynerchuk**: Keynote speech 2014](https://www.youtube.com/watch?v=uJ51V93u84o) (IMUK) [2014] `48:01`
 - [x] [**Gary Vaynerchuk**: Keynote](https://www.youtube.com/watch?v=AC3XtSYM5aY) (PCBC) [2014] `01:03:06`
 
 
-####Self Motivation
+#### Self Motivation
 - [x] [**Julie Gurner**: Keynote at Affiliate Summit East 2014](https://www.youtube.com/watch?v=jMF7KT1STEs) (Aff. Summit) [2014] `49:26`
 - [x] [**Tina Seelig**: The 6 Characteristics of Truly Creative People](https://www.youtube.com/watch?v=CgCdsERkqrc) (99%) [2014] `20:09`
 - [x] [**Gretchen Rubin**: The 4 Ways to Successfully Adopt New Habits](https://www.youtube.com/watch?v=gBNEVXg2CNU) (99%) [2014] `18:03`
@@ -206,7 +207,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Daniel Kahneman**: The riddle of experience vs. memory](https://www.youtube.com/watch?v=XgRlrBl-7Yg) (TED2010) [2010] `20:36`
 
 
-####Affiliate
+#### Affiliate
 - [x] [**Peter Thiel**: Entrepreneur, Discovered facebook](https://www.youtube.com/watch?v=Ax-WRfR1BkY) (Aff. Summit) [2014] `49:23`
 - [x] [**Wil Reynolds**: Wil Reynolds Keynote](https://www.youtube.com/watch?v=yl35kQEG_cM) (Aff. Summit) [2013] `01:15:48`
 - [x] [**Tim Ash**: Landing Page Optimization / SEO](https://www.youtube.com/watch?v=Zgw4LGw61p0) (Aff. Summit) [2013] `01:10:56`
@@ -214,7 +215,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 
-####Uncategorized
+#### Uncategorized
 - [x] [**Dave Hazlehurst**: 'Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) [2014] `27:50`
 - [x] [**Dave Hazlehurst**: Art & Science of Digital Connections](https://www.youtube.com/watch?v=qJYCxDAiXsk) (Talent Connet) [2014] `47:02`
 - [x] **Chris Haddad**: 8 "Stupid" Copywriting Tricks (Mindvalley Insights)
@@ -222,9 +223,9 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Michio Kaku**: The Universe in a Nutshell](https://www.youtube.com/watch?v=0NbBjNiw4tk) (Big Think) [2012] `42:13`
 
 
-####Podcasts
+#### Podcasts
 
-#####General
+##### General
  - [x] [Radiolab](http://www.radiolab.org) 
  - [x] [S-Emek](http://semek.podbean.com)
  - [x] [Shavua (Startups Podcast)](http://www.shavua.net)
@@ -236,9 +237,9 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Criminal](http://thisiscriminal.com)
  - [x] [Stuff You Should Know](http://www.stuffyoushouldknow.com)
 
-#####Software Related
+##### Software Related
 
-######PHP / Javascript
+###### PHP / Javascript
  - [x] [Full Stack Radio](http://www.fullstackradio.com)
  - [x] [Laravel Podcast](http://www.laravelpodcast.com)
  - [x] [/dev/hell](http://devhell.info)
@@ -251,15 +252,15 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Software Engineering Radio](http://www.se-radio.net)
  - [x] [Coing Blocks](http://codingblocks.com)
 
-######.NET
+###### .NET
  - [x] [.NET Rocks](https://www.dotnetrocks.com)
  - [x] [SQL Server Radio](http://www.sqlserverradio.com)
 
-####Template
+#### Template
 - [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR] `00:00`
 
 
-#####Other Repositories I follow:
+##### Other Repositories I follow:
  - Web Development
   - [UX must watch](https://github.com/anilbms/ux-must-watch-videos)
   - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
