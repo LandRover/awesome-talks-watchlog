@@ -87,7 +87,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Machine Learning
-    - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
+  - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
 
 
 #### Design
