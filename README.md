@@ -86,6 +86,10 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [**Madeleine Udell**: Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) (JuliaCon) [2014] `40:11`
 
 
+#### Machine Learning
+    - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
+
+
 #### Design
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
 - [x] [**Erik Dornenburg**: Architecture without Architects](https://www.youtube.com/watch?v=qVyt3qQ_7TA) (FooCafe) [2014] `52:00`
@@ -116,6 +120,7 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [**Henrik Kniberg**: Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) (-) [2012] `15:51`
     - [x] [**Extra Credits**: Fail Faster - A Mantra for Creative Thinkers](https://www.youtube.com/watch?v=rDjrOaoHz9s) (-) [2014] `4:23`
     - [x] [**Silicon Valley**: S01E05 Scrum Scene](https://www.youtube.com/watch?v=oyVksFviJVE) (-) [2014] `2:50`
+
 
 
 #### Object-Oriented
