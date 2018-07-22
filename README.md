@@ -134,12 +134,18 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Noel Rappin**: But Really, You Should Learn Smalltalk](https://www.youtube.com/watch?v=eGaKZBr0ga4) (MountainWest RubyConf) [2014] `28:05`
 
 
+#### Testing
+- [x] [Delightful JavaScript Testing with Jest](https://www.youtube.com/watch?v=cAKYQpTC7MA) (FB) [2018] `1:38:31`
+
+
 #### TDD
 - [x] [**Jimmy Bogard**: Holistic testing](http://vimeo.com/68390508) (NDC) [2013] `1:00:33`
 - [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
 
+
 ####Machine Learning
 - [x] [**Xavier Amatriain**: Machine Learning at Quora](https://www.youtube.com/watch?v=sPsPZyx28VE) (-) [2015] `31:40`
+
 
 #### VIM
 - [x] [**Chris Maiden**: Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) (DCNW) [2013] `41:07`
