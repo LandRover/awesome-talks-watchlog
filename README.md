@@ -270,8 +270,14 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [.NET Rocks](https://www.dotnetrocks.com)
  - [x] [SQL Server Radio](http://www.sqlserverradio.com)
 
+### Posts
+
+#### Git
+ - [x] [OneFlow - a Git branching model and workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
+
 #### Template
 - [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR] `00:00`
+
 
 
 ##### Other Repositories I follow:
