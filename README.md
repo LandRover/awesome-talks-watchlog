@@ -64,6 +64,9 @@ These talks are mostly about programming but not only. The list contains also ot
   - Older
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
+#### React
+- [x] [**Dan Abramov**: React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) (React Conf) [2018] `01:35:29`
+
 #### Web Development
 - [x] [**Paul Irish**: How Users Perceive the Speed of The Web](https://www.youtube.com/watch?v=2ksXo2_Lfl0) (FluentConf) [2015] `21:23`
 - [x] [**Iliyan Peychev**: HTTP 2.0 and QUIC - protocols of the (near) future](https://www.youtube.com/watch?v=qyexqwG6fGI) (JSConf EU) [2014] `28:05`
