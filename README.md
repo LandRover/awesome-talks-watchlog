@@ -64,8 +64,10 @@ These talks are mostly about programming but not only. The list contains also ot
   - Older
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
+
 #### React
 - [x] [**Dan Abramov**: React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) (React Conf) [2018] `01:35:29`
+
 
 #### Web Development
 - [x] [**Paul Irish**: How Users Perceive the Speed of The Web](https://www.youtube.com/watch?v=2ksXo2_Lfl0) (FluentConf) [2015] `21:23`
@@ -159,6 +161,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Deployment and IT
+- [x] [**Josh Evans**: Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) (InfoQ) [2016] `53:13`
 - [x] [**Brian Dorsey**: Docker Containers and Kubernetes](https://www.youtube.com/watch?v=Fcb4aoSAZ98) (eventName) [2015] `34:35`
 - [x] [**Brendan Burns**: A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (CoreOS Fest) [2015] `30:30`
 - [x] [**Kelsey Hightower**: Kubernetes on bare metal with CoreOS](https://www.youtube.com/watch?v=) (Meetup) [2015] `18:13`
