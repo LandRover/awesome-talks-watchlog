@@ -249,6 +249,8 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Yonatan Mevorach](http://blog.cowchimp.com)
  - [x] [Uncle Bob: Clean Coder](https://blog.cleancoder.com)
  - [x] [Kent C. Dodds](https://blog.kentcdodds.com)
+ - [x] [toCode](http://tocode.co.il)
+ 
 
 ##### Skills
  - [x] [Frontend Masters](https://frontendmasters.com)
@@ -261,25 +263,23 @@ These talks are mostly about programming but not only. The list contains also ot
 ##### General
  - [x] [Radiolab](http://www.radiolab.org) 
  - [x] [S-Emek](http://semek.podbean.com)
- - [x] [Shavua (Startups Podcast)](http://www.shavua.net)
  - [x] [Startup (Alex Blumberg)](https://gimletmedia.com/show/startup/)
- - [x] [Making History](http://www.ranlevi.com)
- - [x] [Serial](http://serialpodcast.org)
  - [x] [This American Life](http://www.thisamericanlife.org)
  - [x] [Israeli Story](http://israelstory.org)
- - [x] [Criminal](http://thisiscriminal.com)
- - [x] [Stuff You Should Know](http://www.stuffyoushouldknow.com)
+ 
 
 ##### Software Related
 
-###### Frontend - Primary
+###### Primary
  - [x] [Reversim](https://www.reversim.com)
  - [x] [מפתחים חסרי תרבות](http://notarbut.co)
  - [x] [Ran Levi - Software (עושים תוכנה)](https://www.ranlevi.com/software/)
+ - [x] [Startup For Startup - monday.com](https://soundcloud.com/startupforstartup)
  - [x] [Frontend Happy Hour](https://frontendhappyhour.com)
  - [x] [syntax.fm](https://syntax.fm)
 
-###### Frontend - Secondary
+###### Secondary
+ - [x] [Shavua (Startups Podcast)](http://www.shavua.net)
  - [x] [Full Stack Radio](http://www.fullstackradio.com)
  - [x] [That Podcast with Beau & Dave](https://thatpodcast.io)
  - [x] [Three Devs and a Maybe](http://threedevsandamaybe.com)
@@ -288,10 +288,6 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Run Geek Radio with Adam Culp](https://rungeekradio.com)
  - [x] [Laravel Podcast](http://www.laravelpodcast.com)
  - [x] [/dev/hell](http://devhell.info)
-
-###### .NET
- - [x] [.NET Rocks](https://www.dotnetrocks.com)
- - [x] [SQL Server Radio](http://www.sqlserverradio.com)
 
 
 ### Posts
