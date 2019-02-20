@@ -24,6 +24,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Javascript
+- [x] [**Jake Archibald**: In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) (JSConf.Asia) [2018] `35:11`
 - [x] [**Malte Ubl**: Designing very large JavaScript applications](https://www.youtube.com/watch?v=ZZmUwXEiPm4) (CSSConf AU) [2018] `28:55`
 - [x] [**Lin Clark**: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) (React Conf) [2017] `31:47`
 - [x] [**Brock Allen**: Authentication and authorization in modern JavaScript web applications – how hard can it be?](https://www.youtube.com/watch?v=s_yE-ZvrU_U) (NDC) [2015] `01:01:12`
