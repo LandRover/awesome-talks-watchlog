@@ -242,6 +242,19 @@ These talks are mostly about programming but not only. The list contains also ot
     - [Part 1](https://www.youtube.com/watch?v=rteSvoogGv0) `15:08` | [Part 2](https://www.youtube.com/watch?v=joF5Ikc8ggw) `10:05`
 - [x] [**Michio Kaku**: The Universe in a Nutshell](https://www.youtube.com/watch?v=0NbBjNiw4tk) (Big Think) [2012] `42:13`
 
+#### Blogs & Skills
+
+##### Blogs
+ - [x] [Wix](https://www.wix.engineering)
+ - [x] [Yonatan Mevorach](http://blog.cowchimp.com)
+ - [x] [Uncle Bob: Clean Coder](https://blog.cleancoder.com)
+ - [x] [Kent C. Dodds](https://blog.kentcdodds.com)
+
+##### Skills
+ - [x] [Frontend Masters](https://frontendmasters.com)
+ - [x] [Egghead.io](https://egghead.io)
+ - [x] [Laracasts](https://laracasts.com)
+
 
 #### Podcasts
 
@@ -259,22 +272,27 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ##### Software Related
 
-###### PHP / Javascript
+###### Frontend - Primary
+ - [x] [Reversim](https://www.reversim.com)
+ - [x] [מפתחים חסרי תרבות](http://notarbut.co)
+ - [x] [Ran Levi - Software (עושים תוכנה)](https://www.ranlevi.com/software/)
+ - [x] [Frontend Happy Hour](https://frontendhappyhour.com)
+ - [x] [syntax.fm](https://syntax.fm)
+
+###### Frontend - Secondary
  - [x] [Full Stack Radio](http://www.fullstackradio.com)
- - [x] [Laravel Podcast](http://www.laravelpodcast.com)
- - [x] [/dev/hell](http://devhell.info)
- - [x] [MageTalk: A Magento Podcast](http://magetalk.com)
- - [x] [Run Geek Radio with Adam Culp](https://rungeekradio.com)
  - [x] [That Podcast with Beau & Dave](https://thatpodcast.io)
  - [x] [Three Devs and a Maybe](http://threedevsandamaybe.com)
- - [x] [ShopTalk Show](http://shoptalkshow.com)
- - [x] [Voices of the ElePHPant](https://voicesoftheelephpant.com/)
  - [x] [Software Engineering Radio](http://www.se-radio.net)
  - [x] [Coing Blocks](http://codingblocks.com)
+ - [x] [Run Geek Radio with Adam Culp](https://rungeekradio.com)
+ - [x] [Laravel Podcast](http://www.laravelpodcast.com)
+ - [x] [/dev/hell](http://devhell.info)
 
 ###### .NET
  - [x] [.NET Rocks](https://www.dotnetrocks.com)
  - [x] [SQL Server Radio](http://www.sqlserverradio.com)
+
 
 ### Posts
 
