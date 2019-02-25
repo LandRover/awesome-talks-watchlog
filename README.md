@@ -247,6 +247,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ##### Blogs
  - [x] [Wix](https://www.wix.engineering)
+ - [x] [CircleCI Blog](https://circleci.com/blog/)
  - [x] [Yonatan Mevorach](http://blog.cowchimp.com)
  - [x] [Uncle Bob: Clean Coder](https://blog.cleancoder.com)
  - [x] [Kent C. Dodds](https://blog.kentcdodds.com)
