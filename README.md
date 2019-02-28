@@ -86,8 +86,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Kenneth Reitz**: Python for Humans](https://www.youtube.com/watch?v=bpZS9ehw98k) (Chipy) [2014] `49:45`
 - [x] [**Laurens Van Houtven**: Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) (PyCon US) [2013] `45:38`
 - [x] [**Raymond Hettinger**: Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) (PyCon US) [2013] `48:50`
-
-  #####Julia
+  ##### Julia
     - [x] [**Dwight Browne**: Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) (PyGotham) [2014] `26:18`
     - [x] [**Stephen Johnson**: Crossing Language Barriers with Julia, SciPy and IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) (EuroSciPy) [2014] `01:11:17`
     - [x] [**Madeleine Udell**: Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) (JuliaCon) [2014] `40:11`
