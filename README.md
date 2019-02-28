@@ -246,7 +246,7 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Blogs & Skills
 
 ##### Blogs
- - [x] [Wix](https://www.wix.engineering)
+ - [x] [Wix](https://www.wix.engineering) | [Talks](https://www.youtube.com/WixTechTalks)
  - [x] [CircleCI Blog](https://circleci.com/blog/)
  - [x] [GitHub Blog](https://github.blog) | [Release Radar](https://github.blog/?s=release+radar) | [Engineering](https://github.blog/category/engineering/)
  - [x] [Startupiko](http://he-tech.startupiko.com)
