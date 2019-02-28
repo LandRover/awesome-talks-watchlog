@@ -249,6 +249,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Wix](https://www.wix.engineering)
  - [x] [CircleCI Blog](https://circleci.com/blog/)
  - [x] [GitHub Blog](https://github.blog) | [Release Radar](https://github.blog/?s=release+radar) | [Engineering](https://github.blog/category/engineering/)
+ - [x] [Startupiko](http://he-tech.startupiko.com)
  - [x] [Yonatan Mevorach](http://blog.cowchimp.com)
  - [x] [Uncle Bob: Clean Coder](https://blog.cleancoder.com)
  - [x] [Kent C. Dodds](https://blog.kentcdodds.com)
