@@ -121,11 +121,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Robert Martin**: The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) (NDC) [2011] `45:41`
 - [x] [**Michael Feathers**: The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) (NDC) [2011] `53:50`
 - [x] [**Rich Hickey**: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (Strange Loop) [2011] `01:01:26`
-
   ##### *Scrum
-    - [x] [**Henrik Kniberg**: Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) (-) [2012] `15:51`
-    - [x] [**Extra Credits**: Fail Faster - A Mantra for Creative Thinkers](https://www.youtube.com/watch?v=rDjrOaoHz9s) (-) [2014] `4:23`
     - [x] [**Silicon Valley**: S01E05 Scrum Scene](https://www.youtube.com/watch?v=oyVksFviJVE) (-) [2014] `2:50`
+    - [x] [**Extra Credits**: Fail Faster - A Mantra for Creative Thinkers](https://www.youtube.com/watch?v=rDjrOaoHz9s) (-) [2014] `4:23`
+    - [x] [**Henrik Kniberg**: Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) (-) [2012] `15:51`
 
 
 
@@ -236,6 +235,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Uncategorized
+- [x] [Let's deploy to production](https://www.youtube.com/watch?v=5p8wTOr8AbU) (-) [2018] `04:08`
 - [x] [**Dave Hazlehurst**: 'Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) [2014] `27:50`
 - [x] [**Dave Hazlehurst**: Art & Science of Digital Connections](https://www.youtube.com/watch?v=qJYCxDAiXsk) (Talent Connet) [2014] `47:02`
 - [x] **Chris Haddad**: 8 "Stupid" Copywriting Tricks (Mindvalley Insights)
