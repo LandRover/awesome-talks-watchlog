@@ -297,6 +297,8 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Git
  - [x] [OneFlow - a Git branching model and workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
+ - [x] [**Mark Erikson**: My Vision for Redux Starter Kit](https://github.com/reduxjs/redux-starter-kit/issues/82)
+ 
 
 #### Template
 - [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR] `00:00`
