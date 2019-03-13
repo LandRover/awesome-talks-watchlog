@@ -66,6 +66,10 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
 
+#### Node.js
+- [x] [**Kamil Mysliwiec**: Rethinking Enterprise Architectures with Node.js](https://www.youtube.com/watch?v=ixz0IefmecI) (JSCamp Barcelona) [2018] `35:26`
+
+
 #### React
 - [x] [**Dan Abramov**: React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) (React Conf) [2018] `01:35:29`
 
