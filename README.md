@@ -68,6 +68,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Node.js
 - [x] [**Kamil Mysliwiec**: Rethinking Enterprise Architectures with Node.js](https://www.youtube.com/watch?v=ixz0IefmecI) (JSCamp Barcelona) [2018] `35:26`
+- [x] [**Ryan Dahl**: 10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) (JSConf EU) [2018] `26:41`
 
 
 #### React
