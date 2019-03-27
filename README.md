@@ -101,7 +101,8 @@ These talks are mostly about programming but not only. The list contains also ot
   - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
 
 
-#### Design
+#### Design & Architecture
+- [x] [**Simon Eskildsen**: Shopify's Architecture to handle 80K RPS Celebrity Sales](https://www.youtube.com/watch?v=N8NWDHgWA28) (GoTo) [2017] `40:17`
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
 - [x] [**Erik Dornenburg**: Architecture without Architects](https://www.youtube.com/watch?v=qVyt3qQ_7TA) (FooCafe) [2014] `52:00`
 - [x] [**Venkat Subramaniam**: Core Software Design Principles](https://vimeo.com/97541185) (NDC) [2014] `01:03:56`
@@ -153,7 +154,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
 
 
-####Machine Learning
+#### Machine Learning
 - [x] [**Xavier Amatriain**: Machine Learning at Quora](https://www.youtube.com/watch?v=sPsPZyx28VE) (-) [2015] `31:40`
 
 
