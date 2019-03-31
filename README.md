@@ -97,6 +97,10 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [**Madeleine Udell**: Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) (JuliaCon) [2014] `40:11`
 
 
+#### Rust
+- [x] [**Florian Gilcher**: Why is Rust Successful?](https://www.youtube.com/watch?v=-Tj8Q12DaEQ) (GOTO) [2017] `48:49`
+
+
 #### Machine Learning
   - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
 
