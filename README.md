@@ -98,6 +98,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Rust
+- [x] [**Jon Gjengset**: Rust at speed — building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM) (Two Sigma) [2018] `55:07`
 - [x] [**Carol Nichols**: Rust: A Language for the Next 40 Years](https://www.youtube.com/watch?v=A3AdN7U24iU) (Emerging Tech) [2019] `55:07`
 - [x] [**Florian Gilcher**: Why is Rust Successful?](https://www.youtube.com/watch?v=-Tj8Q12DaEQ) (GOTO) [2017] `48:49`
 
