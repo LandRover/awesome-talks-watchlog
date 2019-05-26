@@ -107,6 +107,11 @@ These talks are mostly about programming but not only. The list contains also ot
   - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
 
 
+#### Cloud
+- [x] [How Amazon Scales Its Infrastructure to Handle Billions of Trans (ENT337)](https://www.youtube.com/watch?v=bIMt0_KLmBQ) (AWS re:Invent) [2017] `44:14`
+- [x] [How Amazon.com Uses AWS Management Tools (DEV340)](https://www.youtube.com/watch?v=IBvsizhKtFk) (AWS re:Invent) [2017] `48:15`
+
+
 #### Design & Architecture
 - [x] [**Simon Eskildsen**: Shopify's Architecture to handle 80K RPS Celebrity Sales](https://www.youtube.com/watch?v=N8NWDHgWA28) (GoTo) [2017] `40:17`
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
