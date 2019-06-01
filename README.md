@@ -179,8 +179,9 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Deployment and IT
+- [x] [**Angus Lees**: How to run Kubernetes on your spare hardware at home, and save the world](https://www.youtube.com/watch?v=O--bzZ9ker0) (LinuxConfAu) [2018] `44:40`
 - [x] [**Josh Evans**: Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) (InfoQ) [2016] `53:13`
-- [x] [**Brian Dorsey**: Docker Containers and Kubernetes](https://www.youtube.com/watch?v=Fcb4aoSAZ98) (eventName) [2015] `34:35`
+- [x] [**Brian Dorsey**: Docker Containers and .netes](https://www.youtube.com/watch?v=Fcb4aoSAZ98) (eventName) [2015] `34:35`
 - [x] [**Brendan Burns**: A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (CoreOS Fest) [2015] `30:30`
 - [x] [**Kelsey Hightower**: Kubernetes on bare metal with CoreOS](https://www.youtube.com/watch?v=) (Meetup) [2015] `18:13`
 - [x] [**Craig Mcluckie**: Kubernetes in 2015](https://www.youtube.com/watch?v=q8lGZCKktYo) (Meetup) [2015] `11:26`
