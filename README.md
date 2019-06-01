@@ -237,6 +237,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Self Motivation
+- [x] [**Linus Torvalds**: The mind behind Linux](https://www.youtube.com/watch?v=o8NPllzkFhE) (TED) [2016] `21:30`
 - [x] [**Julie Gurner**: Keynote at Affiliate Summit East 2014](https://www.youtube.com/watch?v=jMF7KT1STEs) (Aff. Summit) [2014] `49:26`
 - [x] [**Tina Seelig**: The 6 Characteristics of Truly Creative People](https://www.youtube.com/watch?v=CgCdsERkqrc) (99%) [2014] `20:09`
 - [x] [**Gretchen Rubin**: The 4 Ways to Successfully Adopt New Habits](https://www.youtube.com/watch?v=gBNEVXg2CNU) (99%) [2014] `18:03`
