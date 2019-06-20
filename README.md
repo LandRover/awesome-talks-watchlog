@@ -164,6 +164,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### TDD
+- [x] [**Ian Cooper**: TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) (DevTernity) [2017] `1:00:33`
 - [x] [**Jimmy Bogard**: Holistic testing](http://vimeo.com/68390508) (NDC) [2013] `1:00:33`
 - [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
 
