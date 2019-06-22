@@ -170,6 +170,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Matt Parker**: TDD: The Bad Parts](https://www.youtube.com/watch?v=xPL84vvLwXA) (Pivotal) [2016] `30:16`
 - [x] [**Jimmy Bogard**: Holistic testing](http://vimeo.com/68390508) (NDC) [2013] `1:00:33`
 - [x] [**Robert Martin**: The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) (NDC) [2011] `53:44`
+- [x] [**Jim Coplien & Bob Martin**: Debate TDD](https://www.youtube.com/watch?v=KtHQGs3zFAM) (JAOO) [2007] `20:58`
 
 
 #### Machine Learning
