@@ -282,6 +282,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Yonatan Mevorach](http://blog.cowchimp.com)
  - [x] [Uncle Bob: Clean Coder](https://blog.cleancoder.com)
  - [x] [Kent C. Dodds](https://blog.kentcdodds.com)
+ - [x] [Nick Fitzgerald](http://fitzgeraldnick.com)
  - [x] [Ryan Bigg](https://www.ryanbigg.com/blog)
  - [x] [OverReacted](https://overreacted.io)
  - [x] [toCode](https://www.tocode.co.il/blog)
