@@ -326,7 +326,9 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Git
  - [x] [OneFlow - a Git branching model and workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
  - [x] [**Mark Erikson**: My Vision for Redux Starter Kit](https://github.com/reduxjs/redux-starter-kit/issues/82)
- 
+
+#### Tests
+ - [x] [**Robert C. Martin (Uncle Bob)**: The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html)
 
 #### Template
 - [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR] `00:00`
