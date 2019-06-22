@@ -67,7 +67,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### React
-- [x] [**Rich Harris**: Rethinking reactivity (Svelte)](https://www.youtube.com/watch?v=AdNJ3fydeao) (YGLF) [2019] `36:44`
+- [x] [**Rich Harris**: Rethinking reactivity (Svelte)](https://www.youtube.com/watch?v=AdNJ3fydeao) [Slides](https://rethinking-reactivity.surge.sh) (YGLF) [2019] `36:44`
 - [x] [**Dan Abramov**: React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) (React Conf) [2018] `01:35:29`
 - [x] [**Dan Abramov**: Beyond React 16](https://www.youtube.com/watch?v=nLF0n9SACd4) (JSConf Iceland) [2018] `33:24`
 - [x] [**Lin Clark**: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) (React Conf) [2017] `31:47`
