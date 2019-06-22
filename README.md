@@ -28,7 +28,6 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Javascript
 - [x] [**Jake Archibald**: In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) (JSConf.Asia) [2018] `35:11`
 - [x] [**Malte Ubl**: Designing very large JavaScript applications](https://www.youtube.com/watch?v=ZZmUwXEiPm4) (CSSConf AU) [2018] `28:55`
-- [x] [**Lin Clark**: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) (React Conf) [2017] `31:47`
 - [x] [**Brock Allen**: Authentication and authorization in modern JavaScript web applications – how hard can it be?](https://www.youtube.com/watch?v=s_yE-ZvrU_U) (NDC) [2015] `01:01:12`
 - [x] [**Elijah Manor**: Eliminate JavaScript Code Smells](https://www.youtube.com/watch?v=JVlfj7mQZPo) (Fluent) [2015] `29:15`
 - [x] [**Glen Maddern**: Javascript in 2015 (JSPM, SystemJS, ES6..)](https://www.youtube.com/watch?v=iukBMY4apvI) (-) [2015] `10:32`
@@ -37,12 +36,8 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Andre Staltz**: What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) (JSConf) [2015] `32:18`
 - [x] [**Sebastian McKenzie**: JavaScript Transformation](https://www.youtube.com/watch?v=rKuNbEwoQfQ) (JSConfUS) [2015] `20:23`
 - [x] [**Addy Osmani**: Polymer and modern web APIs](https://www.youtube.com/watch?v=fD2As5RmM8Q) (I/O) [2015] `46:27`
-- [x] [**Stuart Harris**: Getting Started with React.js](https://www.youtube.com/watch?v=8HkVHbJZeWY) (JSConf) [2015] `46:29`
 - [x] **Axel Rauschmayer**: Using ECMAScript 6 today (RSConf) [2015]
   - [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) `40:44` | [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) `53:04`
-- [x] [**Pete Hunt**: Full Stack Flux](https://www.youtube.com/watch?v=KtmjkCuV-EU) (React.js) [2015] `32:34`
-- [x] [**Ryan Florence**: Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg) (React.js) [2015] `31:16`
-- [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
 - [x] [**Dave Smith**: Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) (ng-conf) [2015] `19:26`
 - [x] [**Eric Bidelman**: Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) (I/O) [2014] `36:12`
 - [x] [**Philip Roberts**: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (JSConf) [2014] `26:52`
@@ -51,8 +46,6 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Yuri Takhteyev**: Promise-Based Architecture](https://www.youtube.com/watch?v=uUj-J3oUmOw) (FITC) [2014] `45:53`
 - [x] [**John Papa**: 10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) (Code on the Beach) [2014] `01:01:26`
 - [x] [**Michael Jackson**: Redemption from Callback Hell](https://www.youtube.com/watch?v=hf1T_AONQJU) (HTML5DevConf) [2013] `50:24`
-- [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) [2013] `01:19:10`
-- [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) [2013] `29:31`
 - [ ] **Douglas Crockford**
   - [x] [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) (JSConfUY) [2014] `01:00:53`
   - On Javascript series (Yahoo)
@@ -74,7 +67,15 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### React
+- [x] [**Rich Harris**: Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) (YGLF) [2019] `36:44`
 - [x] [**Dan Abramov**: React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) (React Conf) [2018] `01:35:29`
+- [x] [**Lin Clark**: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) (React Conf) [2017] `31:47`
+- [x] [**Ryan Florence**: Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg) (React.js) [2015] `31:16`
+- [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
+- [x] [**Pete Hunt**: Full Stack Flux](https://www.youtube.com/watch?v=KtmjkCuV-EU) (React.js) [2015] `32:34`
+- [x] [**Stuart Harris**: Getting Started with React.js](https://www.youtube.com/watch?v=8HkVHbJZeWY) (JSConf) [2015] `46:29`
+- [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) [2013] `01:19:10`
+- [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) [2013] `29:31`
 
 
 #### Web Development
