@@ -10,6 +10,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ### Software Development
+- [x] [**Matt Schuetze**: How NOT to Measure Latency](https://vimeo.com/135065813) (QCon NYC) [2015] `49:17`
 - [x] [Lifting the Curtain: the Data Infrastructure Behind Facebook Apps](https://www.youtube.com/watch?v=T9YbeJ4DMuM) (F8) [2015] `46:38`
 - [x] [Big Code: Developer Infrastructure at Facebook's Scale](https://www.youtube.com/watch?v=X0VH78ye4yY) (F8) [2015] `46:21`
 - [x] [Move Fast: Ensuring Mobile Performance Without Breaking Things](https://www.youtube.com/watch?v=htGxYO155rQ) (F8) [2015] `37:35`
