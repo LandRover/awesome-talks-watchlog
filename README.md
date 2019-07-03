@@ -66,6 +66,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Ryan Dahl**: 10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) (JSConf EU) [2018] `26:41`
 
 
+#### Go
+- [x] [**Todd Mcleod** - How to build web apps with golang](https://www.youtube.com/watch?v=Vlie-srOU8c) (GDG Fresno) [2015] `01:37:40`
+
+
 #### React
 - [x] [**Rich Harris**: Rethinking reactivity (Svelte)](https://www.youtube.com/watch?v=AdNJ3fydeao) [[Slides](https://rethinking-reactivity.surge.sh)] (YGLF) [2019] `36:44`
 - [x] [**Dan Abramov**: React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM) (React Conf) [2018] `01:35:29`
