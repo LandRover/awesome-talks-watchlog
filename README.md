@@ -343,7 +343,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [**Robert C. Martin (Uncle Bob)**: The Little Mocker](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html)
 
 #### Template
-- [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR] `00:00`
+ - [x] [**name**: title](https://www.youtube.com/watch?v=) (eventName) [YEAR] `00:00`
 
 
 
@@ -365,4 +365,5 @@ These talks are mostly about programming but not only. The list contains also ot
   - [Creative Mornings](https://www.youtube.com/user/Creativemornings)
   - [IMUK](https://www.youtube.com/user/inboundukdotorg)
   - [99%](https://www.youtube.com/user/99Uvideos)
+  - [Tech-Talks - Code Maven](https://tech-talks.code-maven.com)
   
