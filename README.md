@@ -280,7 +280,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Interesting
 - [x] [**Yuval Noah Harari**: Will the Future Be Human](https://www.youtube.com/watch?v=ZlLSu9pU2LU) (Davos) [2018] `17:06`
-
+- [x] [**Yuval Harari & Dan Ariely**: Future Think—From Sapiens to Homo Deus](https://www.youtube.com/watch?v=5BqD5klZsQE) (92Y) [2017] `1:08:27`
 
 #### Uncategorized
 - [x] [Let's deploy to production](https://www.youtube.com/watch?v=5p8wTOr8AbU) (-) [2018] `04:08`
