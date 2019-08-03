@@ -245,6 +245,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Simon Sinek**: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) [2013] `45:50`
 - [x] [**Simon Sinek**: Love Your Work](https://www.youtube.com/watch?v=jDIZS4IQlQk) (Creative Mornings) [2012] `42:07`
 - [x] [**Bob Davids**: The rarest commodity is leadership without ego](https://www.youtube.com/watch?v=UQrPVmcgJJk) (TEDxESCP) [2012] `12:50`
+- [x] [**Amy Cuddy**: Fake it Till You Make it](https://www.youtube.com/watch?v=RVmMeMcGc0Y) (TED) [2012] `15:16`
 - [x] [**Simon Sinek**: First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) [2011] `17:07`
 - [x] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) [2011] `30:40`
 
