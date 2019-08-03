@@ -243,6 +243,7 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Leadership
 - [x] [**Lynne Franklin**: Reading minds through body language](https://www.youtube.com/watch?v=W3P3rT0j2gQ) (TEDxNaperville) [2017] `11:58`
 - [x] [**Ann Washburn**: Body Language: The Key to Your Subconscious](https://www.youtube.com/watch?v=_v36Vt9GmH8) (TEDxIdahoFalls) [2016] `15:39`
+- [x] [**Brian Little**: Who are you, really? The puzzle of personality](https://www.youtube.com/watch?v=qYvXk_bqlBk) (TED) [2016] `15:16`
 - [x] [**Simon Sinek**: On Leadership](https://www.youtube.com/watch?v=efGLdwPOWSw) (TED) [2014] `14:51`
 - [x] [**Simon Sinek**: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y) (99%) [2013] `45:50`
 - [x] [**Simon Sinek**: Love Your Work](https://www.youtube.com/watch?v=jDIZS4IQlQk) (Creative Mornings) [2012] `42:07`
