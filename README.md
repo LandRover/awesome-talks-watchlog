@@ -252,6 +252,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Simon Sinek**: First why and then trust](https://www.youtube.com/watch?v=4VdO7LuoBzM) (TED) [2011] `17:07`
 - [x] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) [2011] `30:40`
 - [x] [**Pamela Meyer**: How to spot a liar](https://www.youtube.com/watch?v=P_6vDLq64gE) (TED) [2011] `18:50`
+- [x] [**Ivan Joseph**: The skill of self confidence](https://www.youtube.com/watch?v=HYZv6HzAs) (TEDxRyersonU) [2011] `13:20`
 
 
 #### Marketing
