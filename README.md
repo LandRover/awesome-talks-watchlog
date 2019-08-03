@@ -278,6 +278,9 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Randal Pinkett**: Entrepreneur, Speaker, Author](https://www.youtube.com/watch?v=IXDetTLXjGc) (Aff. Summit) [2013] `01:15:08`
 
 
+#### Interesting
+- [x] [**Yuval Noah Harari**: Will the Future Be Human](https://www.youtube.com/watch?v=ZlLSu9pU2LU) (Davos) [2018] `17:06`
+
 
 #### Uncategorized
 - [x] [Let's deploy to production](https://www.youtube.com/watch?v=5p8wTOr8AbU) (-) [2018] `04:08`
