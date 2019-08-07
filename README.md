@@ -197,6 +197,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Deployment and IT
 - [x] [**Angus Lees**: How to run Kubernetes on your spare hardware at home, and save the world](https://www.youtube.com/watch?v=O--bzZ9ker0) (LinuxConfAu) [2018] `44:40`
+- [x] [**Ulf Adams, Helen Altsuhler, David Stanke**: Building Software at Google Scale: Bazel](https://www.youtube.com/watch?v=6GCDfoAOKIY) (GoogleTechTalks) [2016] `34:29`
 - [x] [**Josh Evans**: Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) (InfoQ) [2016] `53:13`
 - [x] [**Brian Dorsey**: Docker Containers and .netes](https://www.youtube.com/watch?v=Fcb4aoSAZ98) (eventName) [2015] `34:35`
 - [x] [**Brendan Burns**: A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (CoreOS Fest) [2015] `30:30`
