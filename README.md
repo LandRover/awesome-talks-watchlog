@@ -61,11 +61,6 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) (Google) `01:03:47`
 
 
-#### Node.js
-- [x] [**Kamil Mysliwiec**: Rethinking Enterprise Architectures with Node.js](https://www.youtube.com/watch?v=ixz0IefmecI) (JSCamp Barcelona) [2018] `35:26`
-- [x] [**Ryan Dahl**: 10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) (JSConf EU) [2018] `26:41`
-
-
 #### React
 - [x] [**Mark Erikson**: A Deep Dive into React-Redux](https://www.youtube.com/watch?v=yOZ4Ml9LlWE) [[Slides](https://react.statuscode.com/link/66540/2243d33e0a)] (React Next) [2019] `31:28`
 - [x] [**Rich Harris**: Rethinking reactivity (Svelte)](https://www.youtube.com/watch?v=AdNJ3fydeao) [[Slides](https://rethinking-reactivity.surge.sh)] (YGLF) [2019] `36:44`
@@ -100,6 +95,12 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [**Dwight Browne**: Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) (PyGotham) [2014] `26:18`
     - [x] [**Stephen Johnson**: Crossing Language Barriers with Julia, SciPy and IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) (EuroSciPy) [2014] `01:11:17`
     - [x] [**Madeleine Udell**: Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) (JuliaCon) [2014] `40:11`
+
+
+#### Node.js
+- [x] [**Kamil Mysliwiec**: Rethinking Enterprise Architectures with Node.js](https://www.youtube.com/watch?v=ixz0IefmecI) (JSCamp Barcelona) [2018] `35:26`
+- [x] [**Ryan Dahl**: 10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) (JSConf EU) [2018] `26:41`
+- [x] [**Sandeep Dinesh**: Scalable Microservices with gRPC, Kubernetes, and Docker](https://www.youtube.com/watch?v=xsIwYL-N4vI) (Node.js Interactive) [2016] `21:24`
 
 
 #### Go
