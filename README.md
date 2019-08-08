@@ -127,8 +127,9 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Design & Architecture
-- [x] [**Jens Vanderhaeghe**: From Monorail to Monorepo: Airbnb’s journey into Microservices](https://www.youtube.com/watch?v=sakGeE4xVZs) (SFHTML5) [2018] `55:50`
+- [x] [**Jens Vanderhaeghe**: From Monorail to Monorepo: Airbnb's journey into Microservices](https://www.youtube.com/watch?v=sakGeE4xVZs) (SFHTML5) [2018] `55:50`
 - [x] [**Simon Eskildsen**: Shopify's Architecture to handle 80K RPS Celebrity Sales](https://www.youtube.com/watch?v=N8NWDHgWA28) (GoTo) [2017] `40:17`
+- [x] [**Chris Richardson**: Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo) (DockerCon) [2016] `39:26`
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
 - [x] [**Rachel Potvin**: Why Google Stores Billions of Lines of Code in a Single Repository](https://www.youtube.com/watch?v=W71BTkUbdqE) (@Scale) [2015] `30:49`
 - [x] [**Erik Dornenburg**: Architecture without Architects](https://www.youtube.com/watch?v=qVyt3qQ_7TA) (FooCafe) [2014] `52:00`
