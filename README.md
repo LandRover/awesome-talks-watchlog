@@ -88,6 +88,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Python
+- [x] [**Ronnie Sheer**: Async/Awaiting Production](https://www.youtube.com/watch?v=pIXiChn5j4E) (PyConIL) [2019] `17:40`
 - [x] [**Raymond Hettinger**: Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) (PyCon) [2015] `52:04`
 - [x] [**Kenneth Reitz**: Python for Humans](https://www.youtube.com/watch?v=bpZS9ehw98k) (Chipy) [2014] `49:45`
 - [x] [**Laurens Van Houtven**: Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) (PyCon US) [2013] `45:38`
