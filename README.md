@@ -129,6 +129,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Design & Architecture
 - [x] [**Jens Vanderhaeghe**: From Monorail to Monorepo: Airbnb's journey into Microservices](https://www.youtube.com/watch?v=sakGeE4xVZs) (SFHTML5) [2018] `55:50`
+- [x] [**Christoph Nakazawa, Rick Hanlon**: Jest Architecture](https://www.youtube.com/watch?v=3YDiloj8_d0) (-) [2018] `51:00`
 - [x] [**Simon Eskildsen**: Shopify's Architecture to handle 80K RPS Celebrity Sales](https://www.youtube.com/watch?v=N8NWDHgWA28) (GoTo) [2017] `40:17`
 - [x] [**Chris Richardson**: Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo) (DockerCon) [2016] `39:26`
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
@@ -290,6 +291,7 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Interesting
 - [x] [**Yuval Noah Harari**: Will the Future Be Human](https://www.youtube.com/watch?v=ZlLSu9pU2LU) (Davos) [2018] `17:06`
 - [x] [**Yuval Harari & Dan Ariely**: Future Think—From Sapiens to Homo Deus](https://www.youtube.com/watch?v=5BqD5klZsQE) (92Y) [2017] `1:08:27`
+
 
 #### Uncategorized
 - [x] [Let's deploy to production](https://www.youtube.com/watch?v=5p8wTOr8AbU) (-) [2018] `04:08`
