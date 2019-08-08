@@ -129,7 +129,6 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Design & Architecture
 - [x] [**Jens Vanderhaeghe**: From Monorail to Monorepo: Airbnb's journey into Microservices](https://www.youtube.com/watch?v=sakGeE4xVZs) (SFHTML5) [2018] `55:50`
-- [x] [**Christoph Nakazawa, Rick Hanlon**: Jest Architecture](https://www.youtube.com/watch?v=3YDiloj8_d0) (-) [2018] `51:00`
 - [x] [**Simon Eskildsen**: Shopify's Architecture to handle 80K RPS Celebrity Sales](https://www.youtube.com/watch?v=N8NWDHgWA28) (GoTo) [2017] `40:17`
 - [x] [**Chris Richardson**: Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo) (DockerCon) [2016] `39:26`
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
@@ -165,7 +164,6 @@ These talks are mostly about programming but not only. The list contains also ot
     - [x] [**Henrik Kniberg**: Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) (-) [2012] `15:51`
 
 
-
 #### Object-Oriented
 - [x] [**Kevlin Henney**: Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) (NDC) [2014] `1:02:51`
 - [x] [**Venkat Subramaniam**: Functional Programming - Technical reasons to adapt](https://www.youtube.com/watch?v=3-UgraLNC2g) (CodeDive) [2014] `01:13:52`
@@ -178,8 +176,8 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Testing
-- [x] [Delightful JavaScript Testing with Jest](https://www.youtube.com/watch?v=cAKYQpTC7MA) (FB) [2018] `1:38:31`
-
+- [x] [**ick Hanlon II, Simen Bekkhus and Matt Phillips**: Delightful JavaScript Testing with Jest](https://www.youtube.com/watch?v=cAKYQpTC7MA) (FB) [2018] `1:38:31`
+- [x] [**Christoph Nakazawa, Rick Hanlon**: Jest Architecture](https://www.youtube.com/watch?v=3YDiloj8_d0) (-) [2018] `51:00`
 
 #### TDD
 - [x] [**Ian Cooper**: TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) (DevTernity) [2017] `1:03:54`
