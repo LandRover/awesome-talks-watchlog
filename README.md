@@ -353,6 +353,11 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [/dev/hell](http://devhell.info)
 
 
+### Cheatsheet
+- [x] [Bash](https://devhints.io/bash)
+- [x] [Go](https://devhints.io/go)
+
+
 ### Posts
 
 #### Git
