@@ -314,6 +314,8 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Ryan Bigg](https://www.ryanbigg.com/blog)
  - [x] [OverReacted](https://overreacted.io)
  - [x] [toCode](https://www.tocode.co.il/blog)
+ - [x] [Scott Galloway](https://www.profgalloway.com)
+ 
 
 ##### Skills
  - [x] [Frontend Masters](https://frontendmasters.com)
