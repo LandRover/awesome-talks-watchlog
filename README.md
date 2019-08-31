@@ -118,13 +118,14 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Florian Gilcher**: Why is Rust Successful?](https://www.youtube.com/watch?v=-Tj8Q12DaEQ) (GOTO) [2017] `48:49`
 
 
-#### Machine Learning
-  - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
-
-
 #### Big Data
   - [x] [**Maximilian Michels**: Data Processing with Apache Beam: Towards Portability and Beyond](https://www.youtube.com/watch?v=6ppsHzhdTnU) (DataEngConf BCN) [2018] `32:13`
   - [x] [**Eugene Kirpichov**: A Whirlwind Overview of Apache Beam](https://www.youtube.com/watch?v=buXqe0YQjMY) (InfoQ.ai) [2018] `13:09`
+  - [x] [Streaming Kafka + Apache Beam + Flink + TensorFlow : Advanced Spark TensorFlow](https://www.youtube.com/watch?v=XHKA262BPlg) (Meetup SF) [2016] `02:22:41`
+
+
+#### Machine Learning
+  - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
 
 
 #### Cloud
@@ -184,6 +185,7 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Testing
 - [x] [**ick Hanlon II, Simen Bekkhus and Matt Phillips**: Delightful JavaScript Testing with Jest](https://www.youtube.com/watch?v=cAKYQpTC7MA) (FB) [2018] `1:38:31`
 - [x] [**Christoph Nakazawa, Rick Hanlon**: Jest Architecture](https://www.youtube.com/watch?v=3YDiloj8_d0) (-) [2018] `51:00`
+
 
 #### TDD
 - [x] [**Ian Cooper**: TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) (DevTernity) [2017] `1:03:54`
