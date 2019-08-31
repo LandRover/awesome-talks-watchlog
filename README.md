@@ -123,6 +123,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Big Data
+  - [x] [**Maximilian Michels**: Data Processing with Apache Beam: Towards Portability and Beyond](https://www.youtube.com/watch?v=6ppsHzhdTnU) (DataEngConf BCN) [2018] `32:13`
   - [x] [**Eugene Kirpichov**: A Whirlwind Overview of Apache Beam](https://www.youtube.com/watch?v=buXqe0YQjMY) (InfoQ.ai) [2018] `13:09`
 
 
