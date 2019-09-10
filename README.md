@@ -308,6 +308,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] **Chris Haddad**: 8 "Stupid" Copywriting Tricks (Mindvalley Insights)
     - [Part 1](https://www.youtube.com/watch?v=rteSvoogGv0) `15:08` | [Part 2](https://www.youtube.com/watch?v=joF5Ikc8ggw) `10:05`
 - [x] [**Michio Kaku**: The Universe in a Nutshell](https://www.youtube.com/watch?v=0NbBjNiw4tk) (Big Think) [2012] `42:13`
+- [x] [**Dumb and Dumber To**: 20 Year Prank Scene](https://www.youtube.com/watch?v=VDUghrju7BA) (-) [2014] `01:59`
 
 #### Blogs & Skills
 
