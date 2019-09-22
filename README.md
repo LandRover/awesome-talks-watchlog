@@ -240,6 +240,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Thomas Reardon**: Future of human-computer interaction, CTRL-labs SEO](https://www.youtube.com/watch?v=5Z5aZK2C3ew) (O'Reilly AI NYC) [2018] `15:06`
 - [x] [**Michael Abrash**: Why Virtual Reality Will Matter to You](https://www.youtube.com/watch?v=UDu-cnXI8E8) (F8) [2015] `01:16:42`
 - [x] [**Chris Urmson**: How a driverless car sees the road](https://www.youtube.com/watch?v=tiwVMrTLUWg) (TED) [2015] `15:29`
+- [x] [**Joel Spolsky**: You Suck at Excel](https://www.youtube.com/watch?v=0nbkaYsR94c) (StackOverflow) [2015] `54:00`
 
 
 #### Start Up
