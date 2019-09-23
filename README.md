@@ -140,12 +140,14 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Jens Vanderhaeghe**: From Monorail to Monorepo: Airbnb's journey into Microservices](https://www.youtube.com/watch?v=sakGeE4xVZs) (SFHTML5) [2018] `55:50`
 - [x] [**Simon Eskildsen**: Shopify's Architecture to handle 80K RPS Celebrity Sales](https://www.youtube.com/watch?v=N8NWDHgWA28) (GoTo) [2017] `40:17`
 - [x] [**Chris Richardson**: Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo) (DockerCon) [2016] `39:26`
+- [x] [**Kent Beck**: 3X](https://www.youtube.com/watch?v=YX2XR73LnRY) (Pivotal) [2016] `01:10:26`
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
 - [x] [**Rachel Potvin**: Why Google Stores Billions of Lines of Code in a Single Repository](https://www.youtube.com/watch?v=W71BTkUbdqE) (@Scale) [2015] `30:49`
 - [x] [**Erik Dornenburg**: Architecture without Architects](https://www.youtube.com/watch?v=qVyt3qQ_7TA) (FooCafe) [2014] `52:00`
 - [x] [**Venkat Subramaniam**: Core Software Design Principles](https://vimeo.com/97541185) (NDC) [2014] `01:03:56`
 - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
 - [x] [**Leslie Lamport**: Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) (Faculty) [2014] `59:50`
+- [x] [**Kent Beck**: Software Design: Why, When & How](https://vimeo.com/105771493) (JavaZone) [2014] `01:00:02`
 - [x] [**Katrina Owen**: Theraputic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) (RubyConf) [2012] `26:04`
 - [x] [**Robert Martin**: Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) (Ruby MidWest) [2011] `01:06:38`
 - [x] [**Michael Feathers**: The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) (NDC) [2010] `50:49`
@@ -153,7 +155,6 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Methodologies
-- [x] [**Kent Beck**: 3X](https://www.youtube.com/watch?v=YX2XR73LnRY) (Pivotal) [2016] `01:10:26`
 - [x] [**Robert Martin**: The S.O.L.I.D. Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) (Arlington Lakes) [2015] `01:12:11`
 - [x] [**Anders Ivarsson**: The Agile Engineering and Leadership Culture at Spotify](https://www.youtube.com/watch?v=9JAji1A1AmM) (XebiCon) [2015] `49:17`
 - [x] [**Chris Angove**: How Spotify Helps Their Engineers Grow](https://www.youtube.com/watch?v=qIIAZ1ZOnPA) (Hakka) [2014] `01:05:47`
