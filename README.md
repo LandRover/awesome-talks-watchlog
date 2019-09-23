@@ -138,6 +138,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Design & Architecture
 - [x] [**Jens Vanderhaeghe**: From Monorail to Monorepo: Airbnb's journey into Microservices](https://www.youtube.com/watch?v=sakGeE4xVZs) (SFHTML5) [2018] `55:50`
+- [x] [**Tim Berglund**: Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) (Devoxx Poland) [2017] `48:59`
 - [x] [**Simon Eskildsen**: Shopify's Architecture to handle 80K RPS Celebrity Sales](https://www.youtube.com/watch?v=N8NWDHgWA28) (GoTo) [2017] `40:17`
 - [x] [**Chris Richardson**: Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo) (DockerCon) [2016] `39:26`
 - [x] [**Kent Beck**: 3X](https://www.youtube.com/watch?v=YX2XR73LnRY) (Pivotal) [2016] `01:10:26`
