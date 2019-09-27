@@ -119,12 +119,13 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Big Data
-  - [x] [**Maxime Beauchemin**: The history and anatomy of Apache Superset](https://www.youtube.com/watch?v=24XDOkGJrEY) [[Slides](https://www.datacouncil.ai/talks/the-history-and-anatomy-of-apache-superset)] (Data Council SF) [2019] `39:44`
+  - [x] [**Maxime Beauchemin**: The history and anatomy of Apache Superset](https://www.youtube.com/watch?v=24XDOkGJrEY) [[Slides](https://www.datacouncil.ai/hubfs/DataEngConf/Data%20Council/Slides%20SF%2019/The%20history%20and%20anatomy%20of%20Apache%20Superset.pdf)] (Data Council SF) [2019] `39:44`
   - [x] [**James Malone**: How to Write Batch or Streaming Data Pipelines with Apache Beam in 15 mins](https://www.youtube.com/watch?v=go8G0tW4KgU) (SparkSummit) [2018] `14:52`
   - [x] [**Maximilian Michels**: Data Processing with Apache Beam: Towards Portability and Beyond](https://www.youtube.com/watch?v=6ppsHzhdTnU) (DataEngConf BCN) [2018] `32:13`
   - [x] [**Eugene Kirpichov**: A Whirlwind Overview of Apache Beam](https://www.youtube.com/watch?v=buXqe0YQjMY) (InfoQ.ai) [2018] `13:09`
   - [x] [Streaming Kafka + Apache Beam + Flink + TensorFlow : Advanced Spark TensorFlow](https://www.youtube.com/watch?v=XHKA262BPlg) (Meetup SF) [2017] `02:22:41`
   - [x] [**Fangjin Yang**: Building an Open Source Streaming Analytics Stack with Kafka and Druid](https://www.youtube.com/watch?v=5nVEWee9fc4) (OpenIoTSummit) [2017] `41:14`
+  - [x] [**Maxime Beauchemin**: How Superset and Druid Power Real-Time Analytics at Airbnb](https://www.youtube.com/watch?v=W_Sp4jo1ACg&t=40) (DataEngConf SF) [2017] `43:34`
   - [x] [**Allen Wang**: Multi-Tenant, Multi-Cluster and Hierarchical Kafka Messaging Service (Netflix)](https://www.confluent.io/kafka-summit-sf17/multitenant-multicluster-and-hieracrchical-kafka-messaging-service) [[Slides](https://www.slideshare.net/wangxia5/multi-cluster-multitenant-and-hierarchical-kafka-messaging-service-slideshare)] (Kafka Summit SF) [2017] `28:48`
 
 
