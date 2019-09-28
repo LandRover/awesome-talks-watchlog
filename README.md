@@ -128,6 +128,7 @@ These talks are mostly about programming but not only. The list contains also ot
   - [x] [**Maxime Beauchemin**: How Superset and Druid Power Real-Time Analytics at Airbnb](https://www.youtube.com/watch?v=W_Sp4jo1ACg&t=40) (DataEngConf SF) [2017] `43:34`
   - [x] [**Allen Wang**: Multi-Tenant, Multi-Cluster and Hierarchical Kafka Messaging Service (Netflix)](https://www.confluent.io/kafka-summit-sf17/multitenant-multicluster-and-hieracrchical-kafka-messaging-service) [[Slides](https://www.slideshare.net/wangxia5/multi-cluster-multitenant-and-hierarchical-kafka-messaging-service-slideshare)] (Kafka Summit SF) [2017] `28:48`
   - [x] [**Xavier Leaute**: Streaming analytics at 300 billion events/day with Kafka, Samza & Druid](https://www.youtube.com/watch?v=jgO3jpQEG0g) (StrataHadoop) [2016] `43:50`
+  - [x] [**Peter Bakas**: How Netflix Handles Data Streams Up to 8M Events/sec](https://www.youtube.com/watch?v=WuRazsX-MBY) (DataEngConf) [2017] `54:52`
 
 
 #### Machine Learning
