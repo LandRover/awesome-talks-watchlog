@@ -70,12 +70,15 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Dan Abramov**: Beyond React 16](https://www.youtube.com/watch?v=nLF0n9SACd4) (JSConf Iceland) [2018] `33:24`
 - [x] [**Lin Clark**: A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs) (React Conf) [2017] `31:47`
 - [x] [**Ryan Florence**: Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg) (React.js) [2015] `31:16`
-- [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
 - [x] [**Pete Hunt**: Full Stack Flux](https://www.youtube.com/watch?v=KtmjkCuV-EU) (React.js) [2015] `32:34`
 - [x] [**Stuart Harris**: Getting Started with React.js](https://www.youtube.com/watch?v=8HkVHbJZeWY) (JSConf) [2015] `46:29`
 - [x] [**Tom Occhino**: Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms) (FB Seattle) [2013] `01:19:10`
 - [x] [**Pete Hunt**: React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) (JSConf) [2013] `29:31`
 
+
+#### React Native
+- [x] [Fullday - Live stream, React Amsterdam 2019 (React Native Track)](https://www.youtube.com/watch?v=NCLkLCvpwm4&t=891) (React Amsterdam) [2019] `08:06:21`
+- [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
 
 #### Web Development
 - [x] [**Paul Irish**: How Users Perceive the Speed of The Web](https://www.youtube.com/watch?v=2ksXo2_Lfl0) (FluentConf) [2015] `21:23`
