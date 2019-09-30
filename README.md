@@ -389,6 +389,10 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ### Posts
 
+#### Software
+ - [x] [ThoughtWorks Radar](https://www.thoughtworks.com/radar) [PDF v20](https://assets.thoughtworks.com/assets/technology-radar-vol-20-en.pdf)
+ - [x] []()
+
 #### Git
  - [x] [OneFlow - a Git branching model and workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
  - [x] [**Mark Erikson**: My Vision for Redux Starter Kit](https://github.com/reduxjs/redux-starter-kit/issues/82)
