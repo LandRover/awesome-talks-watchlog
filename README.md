@@ -390,8 +390,8 @@ These talks are mostly about programming but not only. The list contains also ot
 ### Posts
 
 #### Software
- - [x] [ThoughtWorks Radar](https://www.thoughtworks.com/radar) [PDF v20](https://assets.thoughtworks.com/assets/technology-radar-vol-20-en.pdf)
- - [x] []()
+ - [x] [ThoughtWorks Radar](https://www.thoughtworks.com/radar) [PDF v20 (04-2019)](https://assets.thoughtworks.com/assets/technology-radar-vol-20-en.pdf)
+ - [x] [InfoQ DevOps Cloud Trends 2019](https://www.infoq.com/articles/devops-cloud-trends-2019/)
 
 #### Git
  - [x] [OneFlow - a Git branching model and workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
