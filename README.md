@@ -268,6 +268,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Yonatan Bergman**: Level Up - Building High performing team culture](https://www.youtube.com/watch?v=T-rhGKhiDb4) (Reversim) [2019] `26:43`
 - [x] [**Emily Bache**: Technical Leadership and Empowered Teams](https://www.youtube.com/watch?v=qnujkFY2gKs) (Craft Conf Budapest) [2019] `45:34`
 - [x] [**Roy Rapoport**: No: Insubordination in Service of Resiliency and Safety](https://www.youtube.com/watch?v=QPHembHrX20) (Wix Engineering) [2018] `37:01`
+- [x] [**Aneel Bhusri**: 6 Core Values at Workday](https://www.youtube.com/watch?v=zHQdyNyuthU) (Brown University) [2018] `10:25`
 - [x] [**Nickolas Means**: How to Crash an Airplane](https://www.youtube.com/watch?v=S2FUSr3WlPk) (RubyConf) [2015] `42:11`
 - [x] [**Andy Grove**: Lecture](https://www.youtube.com/watch?v=dyN4TQqjcto) (Kuh) [2012] `01:12:17`
 
