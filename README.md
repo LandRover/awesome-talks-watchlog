@@ -342,6 +342,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Nick Fitzgerald](http://fitzgeraldnick.com)
  - [x] [Ryan Bigg](https://www.ryanbigg.com/blog)
  - [x] [OverReacted](https://overreacted.io)
+ - [x] [InfoQ](https://www.infoq.com)
  - [x] [toCode](https://www.tocode.co.il/blog)
  - [x] [Scott Galloway](https://www.profgalloway.com)
  
