@@ -333,6 +333,7 @@ These talks are mostly about programming but not only. The list contains also ot
 ##### Blogs
  - [x] [Wix](https://www.wix.engineering) | [Meetups](https://www.meetup.com/at-wix/) | [Talks](https://www.youtube.com/WixTechTalks)
  - [x] [CircleCI Blog](https://circleci.com/blog/)
+ - [x] [Airbnb Engineering & Data Science](https://airbnb.io)
  - [x] [GitHub Blog](https://github.blog) | [Release Radar](https://github.blog/?s=release+radar) | [Engineering](https://github.blog/category/engineering/)
  - [x] [Startupiko](http://he-tech.startupiko.com)
  - [x] [Yonatan Mevorach](http://blog.cowchimp.com)
