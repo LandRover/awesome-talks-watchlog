@@ -251,6 +251,10 @@ These talks are mostly about programming but not only. The list contains also ot
 ### Other
 
 
+#### Security
+- [x] [**Craig Williams**: The Rise of Supply Chain Attacks](https://www.youtube.com/watch?v=nNtSPaNXT1E) (RSA) [2018] `15:46`
+
+
 #### Technology
 - [x] [**Thomas Reardon**: Future of human-computer interaction, CTRL-labs SEO](https://www.youtube.com/watch?v=5Z5aZK2C3ew) (O'Reilly AI NYC) [2018] `15:06`
 - [x] [**Michael Abrash**: Why Virtual Reality Will Matter to You](https://www.youtube.com/watch?v=UDu-cnXI8E8) (F8) [2015] `01:16:42`
