@@ -107,6 +107,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Node.js
+- [x] [**Ryan Dahl**: Deno, a new way to JavaScript](https://www.youtube.com/watch?v=z6JRlx5NC9E) (JS Fest Spring) [2019] `59:01`
 - [x] [**Kamil Mysliwiec**: Rethinking Enterprise Architectures with Node.js](https://www.youtube.com/watch?v=ixz0IefmecI) (JSCamp Barcelona) [2018] `35:26`
 - [x] [**Ryan Dahl**: 10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA) (JSConf EU) [2018] `26:41`
 - [x] [**Michael Lumish**: Deep Dive: gRPC Node](https://www.youtube.com/watch?v=dgPkVx10U0Q) (KubeCon / CloudNativeCon) [2018] `26:00`
