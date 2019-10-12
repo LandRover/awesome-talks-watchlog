@@ -10,12 +10,10 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ### Software Development
-- [x] [**Richard Feldman**: Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) (ClojuTRE) [2019] `46:08`
 - [x] [**Martin Kleppmann**: Correctness proofs of distributed systems with Isabelle](https://www.youtube.com/watch?v=7w4KC6i9Yac) (Strange Loop) [2019] `42:37`
 - [x] [**Paul Chiusano**: Unison: a new distributed programming language](https://www.youtube.com/watch?v=gCWtkvDQ2ZI) (Strange Loop) [2019] `41:05`
 - [x] [**Emery Berger**: Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) (Strange Loop) [2019] `42:14`
 - [x] [**Martin Kleppmann**: CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw) (QCon London) [2018] `45:38`
-- [x] [**Russ Olsen**: Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY) (GOTO) [2018] `41:34`
 - [x] [**Mouse Reeve**: Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) (Strange Loop) [2018] `40:56`
 - [x] [**Matt Schuetze (Azul)**: How NOT to Measure Latency](https://vimeo.com/135065813) (QCon NYC) [2015] `49:17`
 - [x] [**Gil Tene (Azul)**: How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) (StrangeLoop) [2015] `42:58`
@@ -52,7 +50,6 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Eric Bidelman**: Polymer and Web Components change everything you know about Web development](https://www.youtube.com/watch?v=8OJ7ih8EE7s) (I/O) [2014] `36:12`
 - [x] [**Philip Roberts**: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (JSConf) [2014] `26:52`
 - [x] [**Dan Lynch**: Large Scale JavaScript Application Architecture](https://www.youtube.com/watch?v=kNrnRG1YgAQ) (HTML5DevConf) [2014] `50:39`
-- [x] [**Trevor Landau**: Functional JS](https://www.youtube.com/watch?v=XXZA6b8y8kM) (jQuery) [2014] `47:06`
 - [x] [**Yuri Takhteyev**: Promise-Based Architecture](https://www.youtube.com/watch?v=uUj-J3oUmOw) (FITC) [2014] `45:53`
 - [x] [**John Papa**: 10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) (Code on the Beach) [2014] `01:01:26`
 - [x] [**Michael Jackson**: Redemption from Callback Hell](https://www.youtube.com/watch?v=hf1T_AONQJU) (HTML5DevConf) [2013] `50:24`
@@ -198,13 +195,16 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Object-Oriented
 - [x] [**Kevlin Henney**: Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) (NDC) [2014] `1:02:51`
-- [x] [**Venkat Subramaniam**: Functional Programming - Technical reasons to adapt](https://www.youtube.com/watch?v=3-UgraLNC2g) (CodeDive) [2014] `01:13:52`
 - [x] [**Jessica Kerr**: Functional Principles for OO Development](https://www.youtube.com/watch?v=tq5SQ4W3gRI) (Ruby Midwest) [2013] `27:59`
 - [x] [**Jack Diederich**: Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) [2012] `27:29`
 
 
-#### Functional Programing
+#### Functional Programming
+- [x] [**Richard Feldman**: Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) (ClojuTRE) [2019] `46:08`
+- [x] [**Russ Olsen**: Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY) (GOTO) [2018] `41:34`
 - [x] [**Noel Rappin**: But Really, You Should Learn Smalltalk](https://www.youtube.com/watch?v=eGaKZBr0ga4) (MountainWest RubyConf) [2014] `28:05`
+- [x] [**Venkat Subramaniam**: Functional Programming - Technical reasons to adapt](https://www.youtube.com/watch?v=3-UgraLNC2g) (CodeDive) [2014] `01:13:52`
+- [x] [**Trevor Landau**: Functional JS](https://www.youtube.com/watch?v=XXZA6b8y8kM) (jQuery) [2014] `47:06`
 
 
 #### Testing
