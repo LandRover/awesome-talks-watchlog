@@ -200,6 +200,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Functional Programming
+- [x] [**Philip Wadler**: (Programming Languages) in Agda = Programming (Languages in Agda)](https://www.youtube.com/watch?v=R49VgxNLmsY) (Codegram - FullstackFest) [2019] `44:34`
 - [x] [**Richard Feldman**: Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) (ClojuTRE) [2019] `46:08`
 - [x] [**Russ Olsen**: Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY) (GOTO) [2018] `41:34`
 - [x] [**Noel Rappin**: But Really, You Should Learn Smalltalk](https://www.youtube.com/watch?v=eGaKZBr0ga4) (MountainWest RubyConf) [2014] `28:05`
