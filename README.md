@@ -15,6 +15,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Paul Chiusano**: Unison: a new distributed programming language](https://www.youtube.com/watch?v=gCWtkvDQ2ZI) (Strange Loop) [2019] `41:05`
 - [x] [**Emery Berger**: Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) (Strange Loop) [2019] `42:14`
 - [x] [**Martin Kleppmann**: CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw) (QCon London) [2018] `45:38`
+- [x] [**Russ Olsen**: Functional Programming in 40 Minutes](https://www.youtube.com/watch?v=0if71HOyVjY) (GOTO) [2018] `41:34`
 - [x] [**Mouse Reeve**: Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) (Strange Loop) [2018] `40:56`
 - [x] [**Matt Schuetze (Azul)**: How NOT to Measure Latency](https://vimeo.com/135065813) (QCon NYC) [2015] `49:17`
 - [x] [**Gil Tene (Azul)**: How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) (StrangeLoop) [2015] `42:58`
