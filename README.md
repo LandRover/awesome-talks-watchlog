@@ -86,6 +86,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
 
 #### Web Development
+- [x] [**Daniel Stenberg**: HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E) (Codegram - FullstackFest) [2019] `39:52`
 - [x] [**Lee Byron**: We're gunna program like it's 1999](https://www.youtube.com/watch?v=jMZssfxL6Sg) (Codegram - FullstackFest) [2019] `35:37`
 - [x] [**Paul Irish**: How Users Perceive the Speed of The Web](https://www.youtube.com/watch?v=2ksXo2_Lfl0) (FluentConf) [2015] `21:23`
 - [x] [**Iliyan Peychev**: HTTP 2.0 and QUIC - protocols of the (near) future](https://www.youtube.com/watch?v=qyexqwG6fGI) (JSConf EU) [2014] `28:05`
