@@ -88,6 +88,7 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Web Development
 - [x] [**Daniel Stenberg**: HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E) (Codegram - FullstackFest) [2019] `39:52`
 - [x] [**Lee Byron**: We're gunna program like it's 1999](https://www.youtube.com/watch?v=jMZssfxL6Sg) (Codegram - FullstackFest) [2019] `35:37`
+- [x] [**Kate Pearce & Carl Vincent**: HTTP/2 & Quic - Teaching Good Protocols to Do Bad Things](https://www.youtube.com/watch?v=wCa5nylzJCo) (Black Hat) [2016] `51:12`
 - [x] [**Paul Irish**: How Users Perceive the Speed of The Web](https://www.youtube.com/watch?v=2ksXo2_Lfl0) (FluentConf) [2015] `21:23`
 - [x] [**Iliyan Peychev**: HTTP 2.0 and QUIC - protocols of the (near) future](https://www.youtube.com/watch?v=qyexqwG6fGI) (JSConf EU) [2014] `28:05`
 - [x] [**Ilya Grigorik**: Yesterday's perf best-practices are today's HTTP/2 anti-patterns](https://www.youtube.com/watch?v=yURLTwZ3ehk) (Velocity) [2015] `47:23`
