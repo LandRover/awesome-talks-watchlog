@@ -291,6 +291,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Leadership
+- [x] [**Simon Sinek**: The Infinite Game: How to Lead in the 21st Century](https://www.youtube.com/watch?v=3vX2iVIJMFQ) (How To - Academy) [2019] `1:31:19`
 - [x] [**Aneel Bhusri**: 6 Core Values at Workday](https://www.youtube.com/watch?v=zHQdyNyuthU) (Brown University) [2018] `10:25`
 - [x] [**Randall Koutnik**: Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs) (#LEADDEVUK) [2017] `25:04`
 - [x] [**Lynne Franklin**: Reading minds through body language](https://www.youtube.com/watch?v=W3P3rT0j2gQ) (TEDxNaperville) [2017] `11:58`
