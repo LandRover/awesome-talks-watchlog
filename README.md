@@ -365,6 +365,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [InfoQ](https://www.infoq.com)
  - [x] [toCode](https://www.tocode.co.il/blog)
  - [x] [Scott Galloway](https://www.profgalloway.com)
+ - [x] [Dave Cheney](https://dave.cheney.net)
  
 
 ##### Skills
