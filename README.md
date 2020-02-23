@@ -125,6 +125,7 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Go
 - [x] [**Paul Bellamy**: Building Go with Bazel](https://www.youtube.com/watch?v=2TKxuERTnks) (Golang UK) [2017] `26:21`
 - [x] [**Todd Mcleod**: How to build web apps with golang](https://www.youtube.com/watch?v=Vlie-srOU8c) (GDG Fresno) [2015] `01:37:40`
+- [x] [**Rob Pike**: Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) (Gopherfest) [2015] `22:27`
 
 
 #### Rust
