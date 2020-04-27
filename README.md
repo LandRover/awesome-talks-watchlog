@@ -368,6 +368,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Scott Galloway](https://www.profgalloway.com)
  - [x] [Dave Cheney](https://dave.cheney.net)
  - [x] [Brad Fitzpatrick](bradfitz.com)
+ - [x] [Lloyd Melnick](https://lloydmelnick.com)
  
 
 ##### Skills
