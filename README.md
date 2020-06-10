@@ -160,6 +160,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Design & Architecture
+- [x] [**Stefan Tilkov**: "Good Enough" Architecture](https://www.youtube.com/watch?v=PzEox3szeRc) (GOTO) [2019] `41:41`
 - [x] [**Jens Vanderhaeghe**: From Monorail to Monorepo: Airbnb's journey into Microservices](https://www.youtube.com/watch?v=sakGeE4xVZs) (SFHTML5) [2018] `55:50`
 - [x] [**Tim Berglund**: Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) (Devoxx Poland) [2017] `48:59`
 - [x] [**Simon Eskildsen**: Shopify's Architecture to handle 80K RPS Celebrity Sales](https://www.youtube.com/watch?v=N8NWDHgWA28) (GoTo) [2017] `40:17`
