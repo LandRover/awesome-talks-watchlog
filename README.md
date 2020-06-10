@@ -10,6 +10,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ### Software Development
+- [x] [**Join Dylan Beattie**: The Art of Code](https://www.youtube.com/watch?v=gdSlcxxYAA8) (BuildStyff) [2019] `01:01:27`
 - [x] [**Martin Kleppmann**: Correctness proofs of distributed systems with Isabelle](https://www.youtube.com/watch?v=7w4KC6i9Yac) (Strange Loop) [2019] `42:37`
 - [x] [**Paul Chiusano**: Unison: a new distributed programming language](https://www.youtube.com/watch?v=gCWtkvDQ2ZI) (Strange Loop) [2019] `41:05`
 - [x] [**Emery Berger**: Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) (Strange Loop) [2019] `42:14`
