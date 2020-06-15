@@ -122,7 +122,6 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Sandeep Dinesh**: Scalable Microservices with gRPC, Kubernetes, and Docker](https://www.youtube.com/watch?v=xsIwYL-N4vI) (Node.js Interactive) [2016] `21:24`
 
 
-
 #### Go
 - [x] [**Francesc Campoy**: The Robustness of Go](https://www.youtube.com/watch?v=40d26ZGfhR8) (GOTO) [2018] `44:31`
 - [x] [**Francesc Campoy**: Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI) (Gopher China) [2017] `49:48`
