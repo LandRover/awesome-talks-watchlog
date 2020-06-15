@@ -124,11 +124,21 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Go
 - [x] [**Francesc Campoy**: The Robustness of Go](https://www.youtube.com/watch?v=40d26ZGfhR8) (GOTO) [2018] `44:31`
+- [x] [**Carmen Andoh**: The Why of Go](https://www.youtube.com/watch?v=bmZNaUcwBt4) (QCon) [2018] `48:46`
+- [x] [**Aaron Schlesinger**: Functional Programming in Go](https://www.youtube.com/watch?v=c8Fwb4KbVJM) (Gopher) [2017] `35:27`
 - [x] [**Francesc Campoy**: Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI) (Gopher China) [2017] `49:48`
+- [x] [**Liz Rice**: A Go Programmer's Guide to Syscalls](https://www.youtube.com/watch?v=01w7viEZzXQ) (GopherCon) [2017] `34:43`
+- [x] [**Sameer Ajmani**: Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4) (dotGo) [2017] `18:09`
 - [x] [**Paul Bellamy**: Building Go with Bazel](https://www.youtube.com/watch?v=2TKxuERTnks) (Golang UK) [2017] `26:21`
+- [x] [**Dave Cheney**: SOLID Go Design](https://www.youtube.com/watch?v=zzAdEt3xZ1M) (GopherCon) [2016] `27:29`
+- [x] [**Rob Pike**: The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) (GopherCon) [2016] `23:56`
+- [x] [**Francesc Campoy**: Understanding nil](https://www.youtube.com/watch?v=ynoY2xz-F8s) (GopherCon) [2016] `30:58`
 - [x] [**Todd Mcleod**: How to build web apps with golang](https://www.youtube.com/watch?v=Vlie-srOU8c) (GDG Fresno) [2015] `01:37:40`
+- [x] [**Matt Heath**: Channeling Failure](https://www.youtube.com/watch?v=lzlGXMnrBgw) (London Go) [2015] `33:59`
+- [x] [**Robert Griesemer**: The Evolution of Go](https://www.youtube.com/watch?v=0ReKdcpNyQg) (GopherCon) [2015] `41:33`
+- [x] [**Steve Francia**: 7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) (Gopherfest) [2015] `27:57`
 - [x] [**Rob Pike**: Go Proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c) (Gopherfest) [2015] `22:27`
-- [x] [**Rob Pike**: Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) (Waza) [2013] `31:21`
+- [x] [**Rob Pike**: Concurrency is not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) (Waza) [2013] `31:21`
 
 
 #### Rust
