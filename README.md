@@ -200,7 +200,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Michael Feathers**: The Mistake at the Heart of Agile (and how to get past it)](http://ndc2011.macsimum.no/mp4/Day1%20Wednesday/Track4%201500-1600.mp4) (NDC) [2011] `53:50`
 - [x] [**Rich Hickey**: Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (Strange Loop) [2011] `01:01:26`
 
-  ##### Scrum
+  - [ ] Scrum
     - [x] [**Kevin Goldsmith**: Using Agile Techniques to Build a More Inclusive Team](https://www.youtube.com/watch?v=Atfxtk2Q90k) (LeadDevLondon) [2018] `39:05`
     - [x] [**Silicon Valley**: S01E05 Scrum Scene](https://www.youtube.com/watch?v=oyVksFviJVE) (-) [2014] `2:50`
     - [x] [**Extra Credits**: Fail Faster - A Mantra for Creative Thinkers](https://www.youtube.com/watch?v=rDjrOaoHz9s) (-) [2014] `4:23`
