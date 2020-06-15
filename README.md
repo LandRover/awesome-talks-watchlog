@@ -136,6 +136,15 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Florian Gilcher**: Why is Rust Successful?](https://www.youtube.com/watch?v=-Tj8Q12DaEQ) (GOTO) [2017] `48:49`
 
 
+#### Neo4j - GraphDB
+
+  ##### Building A GRANDstack Real Estate Search App
+  
+    - [x] [**Will Lyon**: #1 - Getting Started With Neo4j GraphQL & Netlify](https://www.youtube.com/watch?v=i6X6oKJjx3g) (neo4j) [2020] `01:11:55`
+    - [x] [**Will Lyon**: #2 - Data modeling and import](https://www.youtube.com/watch?v=WB--CkjKJMQ) (neo4j) [2020] `01:11:33`
+    - [x] [**Will Lyon**: #3 - Geospatial Data With GraphQL](https://www.youtube.com/watch?v=_60Kf0SnuWQ) (neo4j) [2020] `57:50`
+
+
 #### Big Data
   - [x] [**Maxime Beauchemin**: The history and anatomy of Apache Superset](https://www.youtube.com/watch?v=24XDOkGJrEY) [[Slides](https://www.datacouncil.ai/hubfs/DataEngConf/Data%20Council/Slides%20SF%2019/The%20history%20and%20anatomy%20of%20Apache%20Superset.pdf)] (Data Council SF) [2019] `39:44`
   - [x] [**James Malone**: How to Write Batch or Streaming Data Pipelines with Apache Beam in 15 mins](https://www.youtube.com/watch?v=go8G0tW4KgU) (SparkSummit) [2018] `14:52`
