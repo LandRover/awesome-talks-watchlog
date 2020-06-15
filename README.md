@@ -136,6 +136,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Florian Gilcher**: Why is Rust Successful?](https://www.youtube.com/watch?v=-Tj8Q12DaEQ) (GOTO) [2017] `48:49`
 
 
+#### Databases
+- [x] [**Dave Nielsen**: Top 5 uses of Redis as a Database](https://www.youtube.com/watch?v=jTTlBc2-T9Q) (PyData) [2015] `36:08`
+
+
 #### Neo4j - GraphDB
   - [x] Building A GRANDstack Real Estate Search App
     - [x] [**Will Lyon**: #1 - Getting Started With Neo4j GraphQL & Netlify](https://www.youtube.com/watch?v=i6X6oKJjx3g) (neo4j) [2020] `01:11:55`
@@ -149,7 +153,7 @@ These talks are mostly about programming but not only. The list contains also ot
   - [x] [**Maximilian Michels**: Data Processing with Apache Beam: Towards Portability and Beyond](https://www.youtube.com/watch?v=6ppsHzhdTnU) (DataEngConf BCN) [2018] `32:13`
   - [x] [**Eugene Kirpichov**: A Whirlwind Overview of Apache Beam](https://www.youtube.com/watch?v=buXqe0YQjMY) (InfoQ.ai) [2018] `13:09`
   - [x] [Streaming Kafka + Apache Beam + Flink + TensorFlow : Advanced Spark TensorFlow](https://www.youtube.com/watch?v=XHKA262BPlg) (Meetup SF) [2017] `02:22:41`
-    - [x] [**Fangjin Yang**: Building an Open Source Streaming Analytics Stack with Kafka and Druid](https://www.youtube.com/watch?v=5nVEWee9fc4) (OpenIoTSummit) [2017] `41:14`
+  - [x] [**Fangjin Yang**: Building an Open Source Streaming Analytics Stack with Kafka and Druid](https://www.youtube.com/watch?v=5nVEWee9fc4) (OpenIoTSummit) [2017] `41:14`
   - [x] [**Maxime Beauchemin**: How Superset and Druid Power Real-Time Analytics at Airbnb](https://www.youtube.com/watch?v=W_Sp4jo1ACg&t=40) (DataEngConf SF) [2017] `43:34`
   - [x] [**Allen Wang**: Multi-Tenant, Multi-Cluster and Hierarchical Kafka Messaging Service (Netflix)](https://www.confluent.io/kafka-summit-sf17/multitenant-multicluster-and-hieracrchical-kafka-messaging-service) [[Slides](https://www.slideshare.net/wangxia5/multi-cluster-multitenant-and-hierarchical-kafka-messaging-service-slideshare)] (Kafka Summit SF) [2017] `28:48`
   - [x] [**Xavier Leaute**: Streaming analytics at 300 billion events/day with Kafka, Samza & Druid](https://www.youtube.com/watch?v=jgO3jpQEG0g) (StrataHadoop) [2016] `43:50`
