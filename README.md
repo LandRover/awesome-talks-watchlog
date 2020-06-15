@@ -457,7 +457,6 @@ These talks are mostly about programming but not only. The list contains also ot
   - [Python Must Watch](https://github.com/s16h/py-must-watch)
   - [Symfony Must Watch](https://github.com/symfony-si/symfony-must-watch)
   - [JSConf](https://www.youtube.com/user/jsconfeu)
-
  - Other
   - [Startup Grind](https://www.youtube.com/user/StartupGrind)
   - [Creative Mornings](https://www.youtube.com/user/Creativemornings)
