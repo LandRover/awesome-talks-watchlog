@@ -137,9 +137,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Neo4j - GraphDB
-
-  ##### Building A GRANDstack Real Estate Search App
-  
+  - [x] Building A GRANDstack Real Estate Search App
     - [x] [**Will Lyon**: #1 - Getting Started With Neo4j GraphQL & Netlify](https://www.youtube.com/watch?v=i6X6oKJjx3g) (neo4j) [2020] `01:11:55`
     - [x] [**Will Lyon**: #2 - Data modeling and import](https://www.youtube.com/watch?v=WB--CkjKJMQ) (neo4j) [2020] `01:11:33`
     - [x] [**Will Lyon**: #3 - Geospatial Data With GraphQL](https://www.youtube.com/watch?v=_60Kf0SnuWQ) (neo4j) [2020] `57:50`
