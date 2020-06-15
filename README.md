@@ -371,6 +371,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Dave Cheney](https://dave.cheney.net)
  - [x] [Brad Fitzpatrick](bradfitz.com)
  - [x] [Lloyd Melnick](https://lloydmelnick.com)
+ - [x] [Berk Ulsoy](https://ulsoy.org)
  
 
 ##### Skills
