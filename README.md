@@ -174,8 +174,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Machine Learning
   - [x] [**Brian Sletten**: TensorFlow 101](https://www.youtube.com/watch?v=oxf3o8IbCk4) (Devoxx Poland) [2017] `45:00`
-
-  #### Machine Learning Basics (Intuitive Machine Learning)
+  - [ ] Scrum Machine Learning Basics (Intuitive Machine Learning)
     - [x] [K means clustering](https://www.youtube.com/watch?v=mEGYznC6F9s) [2020] `06:31`
     - [x] [K Nearest Neighbors](https://www.youtube.com/watch?v=0p0o5cmgLdE) [2020] `02:12`
     - [x] [Confusion Matrix](https://www.youtube.com/watch?v=jr_BcU4QlNE) [2020] `05:08`
