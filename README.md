@@ -30,6 +30,11 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Clean Code
+- [ ] **Robert Martin**: Clean Code (UnityCoin) [2019]
+  - [x] [Lesson 1](https://www.youtube.com/watch?v=EkluES9Rvak) `01:48:41`
+  - [x] [Lesson 2](https://www.youtube.com/watch?v=2a_ytyt9sf8) `01:06:00`
+  - [x] [Lesson 3](https://www.youtube.com/watch?v=Qjywrq2gM8o) `59:40`
+  - [x] [Lesson 4](https://www.youtube.com/watch?v=58jGpV2Cg50) `01:30:35`
 - [x] [**Robert Martin**: Clean Code I: Arguments](https://vimeo.com/13439458) (NDC) [2008] `53:33`
 - [x] [**Robert Martin**: Clean Code III: Functions](https://vimeo.com/12643301) (OREDEV) [2008] `51:30`
 
