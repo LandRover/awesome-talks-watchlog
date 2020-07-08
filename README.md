@@ -186,6 +186,7 @@ These talks are mostly about programming but not only. The list contains also ot
     
 
 #### Cloud
+- [x] [**Bilgin Ibryam**: The Evolution of Distributed Systems on Kubernetes](https://www.youtube.com/watch?v=8age_72M_NE) [[Slides](https://www.infoq.com/presentations/kubernetes-primitives-design-patterns/)] (InfoQ) [2020] `41:03`
 - [x] [**Itai Friendinger**: Cross Region Data Replication - Design Considerations](https://www.youtube.com/watch?v=6q2nZq8mEfE) (Reversim) [2017] `39:59`
 - [x] [How Amazon Scales Its Infrastructure to Handle Billions of Trans (ENT337)](https://www.youtube.com/watch?v=bIMt0_KLmBQ) (AWS re:Invent) [2017] `44:14`
 - [x] [How Amazon.com Uses AWS Management Tools (DEV340)](https://www.youtube.com/watch?v=IBvsizhKtFk) (AWS re:Invent) [2017] `48:15`
