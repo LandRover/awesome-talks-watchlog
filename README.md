@@ -35,6 +35,8 @@ These talks are mostly about programming but not only. The list contains also ot
   - [x] [Lesson 2](https://www.youtube.com/watch?v=2a_ytyt9sf8) `01:06:00`
   - [x] [Lesson 3](https://www.youtube.com/watch?v=Qjywrq2gM8o) `59:40`
   - [x] [Lesson 4](https://www.youtube.com/watch?v=58jGpV2Cg50) `01:30:35`
+  - [x] [Lesson 5](https://www.youtube.com/watch?v=sn0aFEMVTpA) `02:10:44`
+  - [x] [Lesson 6](https://www.youtube.com/watch?v=l-gF0vDhJVI) `01:38:08`
 - [x] [**Robert Martin**: Clean Code I: Arguments](https://vimeo.com/13439458) (NDC) [2008] `53:33`
 - [x] [**Robert Martin**: Clean Code III: Functions](https://vimeo.com/12643301) (OREDEV) [2008] `51:30`
 
