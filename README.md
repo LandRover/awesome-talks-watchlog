@@ -406,6 +406,7 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Brad Fitzpatrick](bradfitz.com)
  - [x] [Lloyd Melnick](https://lloydmelnick.com)
  - [x] [Berk Ulsoy](https://ulsoy.org)
+ - [x] [לפני האיתחול](https://tech.b48.club)
  
 
 ##### Skills
