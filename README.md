@@ -14,6 +14,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Martin Kleppmann**: Correctness proofs of distributed systems with Isabelle](https://www.youtube.com/watch?v=7w4KC6i9Yac) (Strange Loop) [2019] `42:37`
 - [x] [**Paul Chiusano**: Unison: a new distributed programming language](https://www.youtube.com/watch?v=gCWtkvDQ2ZI) (Strange Loop) [2019] `41:05`
 - [x] [**Emery Berger**: Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) (Strange Loop) [2019] `42:14`
+- [x] [**Valentin Gogichashvili**: Data engineers and who needs them (Zalando SE)](https://www.youtube.com/watch?v=KyZYDCkNPow) (HighLoad++) [2018] `47:34`
 - [x] [**Martin Kleppmann**: CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw) (QCon London) [2018] `45:38`
 - [x] [**Matt Klein**: Lyft's Envoy: Embracing a Service Mesh](https://www.youtube.com/watch?v=55yi4MMVBi4) (InfoQ) [2018] `49:18`
 - [x] [**Mouse Reeve**: Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) (Strange Loop) [2018] `40:56`
