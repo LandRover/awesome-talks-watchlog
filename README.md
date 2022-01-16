@@ -17,6 +17,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Martin Kleppmann**: CRDTs and the Quest for Distributed Consistency](https://www.youtube.com/watch?v=B5NULPSiOGw) (QCon London) [2018] `45:38`
 - [x] [**Matt Klein**: Lyft's Envoy: Embracing a Service Mesh](https://www.youtube.com/watch?v=55yi4MMVBi4) (InfoQ) [2018] `49:18`
 - [x] [**Mouse Reeve**: Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) (Strange Loop) [2018] `40:56`
+- [x] [**Valentin Gogichashvili**: Events, tires and data integration in the complex world of microservices (Zalando)](https://www.youtube.com/watch?v=l5ug_W9iFUs) (HighLoad++) [2016] `47:13`
 - [x] [**Matt Schuetze (Azul)**: How NOT to Measure Latency](https://vimeo.com/135065813) (QCon NYC) [2015] `49:17`
 - [x] [**Gil Tene (Azul)**: How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) (StrangeLoop) [2015] `42:58`
 - [x] [Lifting the Curtain: the Data Infrastructure Behind Facebook Apps](https://www.youtube.com/watch?v=T9YbeJ4DMuM) (F8) [2015] `46:38`
