@@ -25,6 +25,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [Big Code: Developer Infrastructure at Facebook's Scale](https://www.youtube.com/watch?v=X0VH78ye4yY) (F8) [2015] `46:21`
 - [x] [Move Fast: Ensuring Mobile Performance Without Breaking Things](https://www.youtube.com/watch?v=htGxYO155rQ) (F8) [2015] `37:35`
 - [x] [**Kathy Sierra**: Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM) (FluentConf) [2015] `23:03`
+- [x] [**Erik Dornenburg**: Architecture without Architects](https://www.youtube.com/watch?v=qVyt3qQ_7TA) (FooCafe) [2014] `52:50`
 - [x] [**Joe Armstrong**: The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) (StrangeLoop) [2014] `45:49`
 - [x] [**Doug Terry**: Replicated Data Consistency Explained Through Baseball](https://www.youtube.com/watch?v=gluIh8zd26I) (SF ACM) [2014] `01:00:50`
 - [x] [**Scott Hanselman**: Scaling Yourself: "It's not what you read, it's what you ignore"](https://www.youtube.com/watch?v=IWPgUn8tL8s) (DevDay) [2012] `01:01:52`
