@@ -106,6 +106,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Ilya Grigorik**: Yesterday's perf best-practices are today's HTTP/2 anti-patterns](https://www.youtube.com/watch?v=yURLTwZ3ehk) (Velocity) [2015] `47:23`
 
 
+#### Algorithmic Trading
+- [x] [**Max Margenot**: Basic Statistical Arbitrage: Understanding the Math Behind Pairs Trading](https://www.youtube.com/watch?v=g-qvFjvyqcs) (Quantopian) [2017] `54:50`
+
+
 #### PHP
 - [x] [Composer, Autoloading, Namespacing, and PHPUnit](https://www.youtube.com/watch?v=84j61_aI0q8) (Tuts+ Code) [2013] `23:53`
 - [x] [**Alvaro Videla**: RabbitMQ Hands On](https://www.youtube.com/watch?v=dAzsbZO7nnU) (PHPUK) [2013] `47:26`
