@@ -107,7 +107,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Algorithmic Trading
-- [x] [**Max Margenot**: Basic Statistical Arbitrage: Understanding the Math Behind Pairs Trading](https://www.youtube.com/watch?v=g-qvFjvyqcs) (Quantopian) [2017] `54:50`
+- [x] [**Max Margenot**: Basic Statistical Arbitrage: Understanding the Math Behind Pairs Trading](https://www.youtube.com/watch?v=g-qvFjvyqcs) [[ipynb](https://www.quantrocket.com/codeload/quant-finance-lectures/quant_finance_lectures/Lecture41-Integration-Cointegration-and-Stationarity.ipynb.html)] (Quantopian) [2017] `54:50`
 
 
 #### PHP
