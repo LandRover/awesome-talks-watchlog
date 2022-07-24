@@ -107,7 +107,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Algorithmic Trading
-- [x] [**Max Margenot**: Bayesian Portfolio Optimization (Webinar)](https://www.youtube.com/watch?v=Zq15BLX6QWI) (Quantopian) [2019] `01:03:46`
+- [x] [**Max Margenot**: Bayesian Portfolio Optimization (DataCamp.com Webinar)](https://www.youtube.com/watch?v=Zq15BLX6QWI) [[Slides](https://mmargenot.github.io/talks/Bayesian_Portfolio_Optimization_Talk.slides.html)] (Quantopian) [2019] `01:03:46`
 - [x] [**Max Margenot**: Basic Statistical Arbitrage: Understanding the Math Behind Pairs Trading](https://www.youtube.com/watch?v=g-qvFjvyqcs) [[ipynb](https://www.quantrocket.com/codeload/quant-finance-lectures/quant_finance_lectures/Lecture41-Integration-Cointegration-and-Stationarity.ipynb.html)] (Quantopian) [2017] `54:50`
 
 
