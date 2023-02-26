@@ -497,6 +497,7 @@ These talks are mostly about programming but not only. The list contains also ot
    - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
    - [Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
    - [Leadership](https://github.com/bedieber/awesome-leadership)
+   - [Engineering Manager](https://github.com/jakubsvobodacz/Awesome-Engineering-Manager)
    - [UX must watch](https://github.com/anilbms/ux-must-watch-videos)
    - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
    - [Programming Talks](https://github.com/hellerve/programming-talks)
