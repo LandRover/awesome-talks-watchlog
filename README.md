@@ -207,6 +207,7 @@ These talks are mostly about programming but not only. The list contains also ot
 #### Design & Architecture
 - [x] [**Stefan Tilkov**: "Good Enough" Architecture](https://www.youtube.com/watch?v=PzEox3szeRc) (GOTO) [2019] `41:41`
 - [x] [**Susheel Aroskar**: Scaling Push Messaging for Millions of Device](https://www.youtube.com/watch?v=6w6E_B55p0E) (Netflix) [2018] `49:09`
+- [x] [**Jessica Kerr**: Shaving the Golden Yak](https://www.youtube.com/watch?v=10Foa_lulK4) (GOTO) [2019] `44:23`
 - [x] [**Jens Vanderhaeghe**: From Monorail to Monorepo: Airbnb's journey into Microservices](https://www.youtube.com/watch?v=sakGeE4xVZs) (SFHTML5) [2018] `55:50`
 - [x] [**Chris Richardson**: Using Sagas to Maintain Data Consistency in a Microservice Architecture](https://www.youtube.com/watch?v=YPbGW3Fnmbc) (Devoxx UK) [2017] `49:09`
 - [x] [**Tim Berglund**: Distributed Systems in One Lesson](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) (Devoxx Poland) [2017] `48:59`
