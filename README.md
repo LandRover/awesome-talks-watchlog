@@ -216,6 +216,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Kent Beck**: 3X](https://www.youtube.com/watch?v=YX2XR73LnRY) (Pivotal) [2016] `01:10:26`
 - [x] [**Venkat Subramaniam**: Core Principles and Creating Lightweight Design](https://www.youtube.com/watch?v=IigBP0FCM3Y) (CodeDive) [2015] `01:11:48`
 - [x] [**Rachel Potvin**: Why Google Stores Billions of Lines of Code in a Single Repository](https://www.youtube.com/watch?v=W71BTkUbdqE) (@Scale) [2015] `30:49`
+- [x] [**Martin Fowler**: Making Architecture Matter (Keynote)](https://www.youtube.com/watch?v=DngAZyWMGR0) (2015) [OSCON] `14:03`
 - [x] [**Erik Dornenburg**: Architecture without Architects](https://www.youtube.com/watch?v=qVyt3qQ_7TA) (FooCafe) [2014] `52:00`
 - [x] [**Venkat Subramaniam**: Core Software Design Principles](https://vimeo.com/97541185) (NDC) [2014] `01:03:56`
 - [x] [**Simon Brown**: Software Architecture vs Code](https://www.youtube.com/watch?v=9noJwoIivV8) (GOTO) [2014] `41:55`
