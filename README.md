@@ -395,6 +395,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Uncategorized
+- [x] [**Jonathan Blow**: Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) (DevGAMM) [2019] `01:02:41`
 - [x] [Let's deploy to production](https://www.youtube.com/watch?v=5p8wTOr8AbU) (-) [2018] `04:08`
 - [x] [**Dave Hazlehurst**: 'Google' Dave Hazlehurst - People, not keywords](https://www.youtube.com/watch?v=1sYMr7evKJo) (IMUK) [2014] `27:50`
 - [x] [**Dave Hazlehurst**: Art & Science of Digital Connections](https://www.youtube.com/watch?v=qJYCxDAiXsk) (Talent Connet) [2014] `47:02`
