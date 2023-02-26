@@ -138,6 +138,8 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Go
+- [x] [**Rob Pike**: The Go Programming Language and Environment](https://www.youtube.com/watch?v=YXV7sa4oM4I) (UNSW) [2021] `41:53`
+- [x] [**Rob Pike**: Why Golang is Sucessful by Creator of Golang](https://www.youtube.com/watch?v=_cmqniwQz3c) (Dot.GO) [2019] `22:25`
 - [x] [**Francesc Campoy**: The Robustness of Go](https://www.youtube.com/watch?v=40d26ZGfhR8) (GOTO) [2018] `44:31`
 - [x] [**Carmen Andoh**: The Why of Go](https://www.youtube.com/watch?v=bmZNaUcwBt4) (QCon) [2018] `48:46`
 - [x] [**Aaron Schlesinger**: Functional Programming in Go](https://www.youtube.com/watch?v=c8Fwb4KbVJM) (Gopher) [2017] `35:27`
