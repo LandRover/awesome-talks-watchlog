@@ -490,6 +490,9 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ##### Other Repositories I follow:
  - Development
+   - [JSConf](https://www.youtube.com/user/jsconfeu)
+ - Awesome
+  - [Awesome Engineering Management](https://github.com/engineering-management/awesome-engineering-management)
   - [Awesome CTO](https://github.com/kuchin/awesome-cto)
   - [UX must watch](https://github.com/anilbms/ux-must-watch-videos)
   - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
@@ -500,7 +503,6 @@ These talks are mostly about programming but not only. The list contains also ot
   - [django Must Watch](https://github.com/rosarior/django-must-watch)
   - [Python Must Watch](https://github.com/s16h/py-must-watch)
   - [Symfony Must Watch](https://github.com/symfony-si/symfony-must-watch)
-  - [JSConf](https://www.youtube.com/user/jsconfeu)
  - Other
   - [Startup Grind](https://www.youtube.com/user/StartupGrind)
   - [Creative Mornings](https://www.youtube.com/user/Creativemornings)
