@@ -413,7 +413,6 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [CircleCI Blog](https://circleci.com/blog/)
  - [x] [Airbnb Engineering & Data Science](https://airbnb.io)
  - [x] [GitHub Blog](https://github.blog) | [Release Radar](https://github.blog/?s=release+radar) | [Engineering](https://github.blog/category/engineering/)
- - [x] [Startupiko](http://he-tech.startupiko.com)
  - [x] [Yonatan Mevorach](http://blog.cowchimp.com)
  - [x] [Uncle Bob: Clean Coder](https://blog.cleancoder.com)
  - [x] [Kent C. Dodds](https://blog.kentcdodds.com)
@@ -421,12 +420,14 @@ These talks are mostly about programming but not only. The list contains also ot
  - [x] [Ryan Bigg](https://www.ryanbigg.com/blog)
  - [x] [OverReacted](https://overreacted.io)
  - [x] [InfoQ](https://www.infoq.com)
+ - [x] [Intercom](https://www.intercom.com/blog/)
  - [x] [toCode](https://www.tocode.co.il/blog)
  - [x] [Scott Galloway](https://www.profgalloway.com)
  - [x] [Dave Cheney](https://dave.cheney.net)
  - [x] [Brad Fitzpatrick](bradfitz.com)
  - [x] [Lloyd Melnick](https://lloydmelnick.com)
  - [x] [Berk Ulsoy](https://ulsoy.org)
+ - [x] [Startupiko](http://he-tech.startupiko.com)
  - [x] [לפני האיתחול](https://tech.b48.club)
  
 
