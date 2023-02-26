@@ -494,6 +494,8 @@ These talks are mostly about programming but not only. The list contains also ot
  - Awesome
   - [Awesome Engineering Management](https://github.com/engineering-management/awesome-engineering-management)
   - [Awesome CTO](https://github.com/kuchin/awesome-cto)
+  - [Awesome Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
+  - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
   - [UX must watch](https://github.com/anilbms/ux-must-watch-videos)
   - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
   - [Programming Talks](https://github.com/hellerve/programming-talks)
