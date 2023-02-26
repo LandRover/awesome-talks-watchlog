@@ -492,6 +492,7 @@ These talks are mostly about programming but not only. The list contains also ot
 ##### Other Repositories I follow:
  - Development
    - [JSConf](https://www.youtube.com/user/jsconfeu)
+   - [Architecture Weekly](https://github.com/oskardudycz/ArchitectureWeekly)
  - Awesome
    - [Engineering Management](https://github.com/engineering-management/awesome-engineering-management)
    - [Awesome CTO](https://github.com/kuchin/awesome-cto)
