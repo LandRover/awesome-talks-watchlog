@@ -471,7 +471,7 @@ These talks are mostly about programming but not only. The list contains also ot
 ### Posts
 
 #### Software
- - [x] [ThoughtWorks Radar](https://www.thoughtworks.com/radar) [PDF v20 (04-2019)](https://assets.thoughtworks.com/assets/technology-radar-vol-20-en.pdf)
+ - [x] [ThoughtWorks Radar](https://www.thoughtworks.com/radar) [PDF v27 (10-2022)](https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2022/10/tr_technology_radar_vol_27_en.pdf)
  - [x] [InfoQ DevOps Cloud Trends 2019](https://www.infoq.com/articles/devops-cloud-trends-2019/)
 
 #### Git
