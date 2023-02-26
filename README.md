@@ -452,8 +452,11 @@ These talks are mostly about programming but not only. The list contains also ot
 ###### Primary
  - [x] [Reversim](https://www.reversim.com)
  - [x] [מפתחים חסרי תרבות](http://notarbut.co)
+ - [x] [Cyber Cyber](https://cybercyber.co.il)
+ - [x] [Changelog](https://changelog.com/podcast)
+ - [x] [Go Time](https://changelog.com/gotime)
  - [x] [Ran Levi - Software (עושים תוכנה)](https://www.ranlevi.com/software/)
- - [x] [Startup For Startup - monday.com](https://soundcloud.com/startupforstartup)
+ - [x] [Startup For Startup (By Monday.com)](https://soundcloud.com/startupforstartup)
  - [x] [Frontend Happy Hour](https://frontendhappyhour.com)
  - [x] [syntax.fm](https://syntax.fm)
 
