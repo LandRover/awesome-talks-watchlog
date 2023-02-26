@@ -489,7 +489,8 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 ##### Other Repositories I follow:
- - Web Development
+ - Development
+  - [Awesome CTO](https://github.com/kuchin/awesome-cto)
   - [UX must watch](https://github.com/anilbms/ux-must-watch-videos)
   - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)
   - [Programming Talks](https://github.com/hellerve/programming-talks)
