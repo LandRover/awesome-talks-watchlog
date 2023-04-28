@@ -396,6 +396,10 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Yuval Harari & Dan Ariely**: Future Think—From Sapiens to Homo Deus](https://www.youtube.com/watch?v=5BqD5klZsQE) (92Y) [2017] `1:08:27`
 
 
+### Philosophy
+- [x] [**Raymond Geuss**: Talking to Thinkers](https://www.youtube.com/watch?v=QrS-VX1yV8E) (Johnny Lyons) [2022] `2:47:39`
+
+
 #### Uncategorized
 - [x] [**Jonathan Blow**: Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) (DevGAMM) [2019] `01:02:41`
 - [x] [Let's deploy to production](https://www.youtube.com/watch?v=5p8wTOr8AbU) (-) [2018] `04:08`
