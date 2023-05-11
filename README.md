@@ -339,6 +339,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Management
+- [x] [**Christina Wodtke**: The Ultimate Guide to OKRs (Stanford)](https://www.youtube.com/watch?v=kvkL18Ue0dE) (Lenny's Podcast) [2023] `1:13:12`
 - [x] [**Darria Long**: An ER doctor on triaging your "crazy busy" life](https://www.youtube.com/watch?v=nLjchFPvcQo) (TedX) [2019] `11:43`
 - [x] [**Yonatan Bergman**: Level Up - Building High performing team culture](https://www.youtube.com/watch?v=T-rhGKhiDb4) (Reversim) [2019] `26:43`
 - [x] [**Emily Bache**: Technical Leadership and Empowered Teams](https://www.youtube.com/watch?v=qnujkFY2gKs) (Craft Conf Budapest) [2019] `45:34`
