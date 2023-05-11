@@ -351,6 +351,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 #### Leadership
 - [x] [**David Neal**: Leadership Guide for the Reluctant Leader](https://www.youtube.com/watch?v=3PcL8UkorEg) (DevTernity) [2020] `56:04`
+- [x] [**Tanya Reilly**: Being Glue (Software Art Thou)](https://www.youtube.com/watch?v=0NUhO9r8UUc) (Zendesk) [2019] `38:16`
 - [x] [**Simon Sinek**: The Infinite Game: How to Lead in the 21st Century](https://www.youtube.com/watch?v=3vX2iVIJMFQ) (How To - Academy) [2019] `1:31:19`
 - [x] [**Aneel Bhusri**: 6 Core Values at Workday](https://www.youtube.com/watch?v=zHQdyNyuthU) (Brown University) [2018] `10:25`
 - [x] [**Randall Koutnik**: Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs) (#LEADDEVUK) [2017] `25:04`
@@ -367,7 +368,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) [2011] `30:40`
 - [x] [**Pamela Meyer**: How to spot a liar](https://www.youtube.com/watch?v=P_6vDLq64gE) (TED) [2011] `18:50`
 - [x] [**Ivan Joseph**: The skill of self confidence](https://www.youtube.com/watch?v=HYZv6HzAs) (TEDxRyersonU) [2011] `13:20`
-- [x] [**Brian Fitzpatrick & Ben Collins-Sussman**: The joys of engineering leadership](https://www.youtube.com/watch?v=skD1fjxSRog) (Google IO) [2010] `56:01`
+- [x] [**Brian Fitzpatrick & Ben Collins-Sussman**: The joys of engineering leadership](https://www.youtube.com/watch?v=skD1fjxSRog) (Google I/O) [2010] `56:01`
 
 
 #### Marketing
