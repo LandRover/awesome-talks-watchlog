@@ -367,6 +367,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Simon Sinek**: If You Don't Understand People, You Don't Understand Business](https://www.youtube.com/watch?v=8grVwcPZnuw) (99%) [2011] `30:40`
 - [x] [**Pamela Meyer**: How to spot a liar](https://www.youtube.com/watch?v=P_6vDLq64gE) (TED) [2011] `18:50`
 - [x] [**Ivan Joseph**: The skill of self confidence](https://www.youtube.com/watch?v=HYZv6HzAs) (TEDxRyersonU) [2011] `13:20`
+- [x] [**Brian Fitzpatrick & Ben Collins-Sussman**: The joys of engineering leadership](https://www.youtube.com/watch?v=skD1fjxSRog) (Google IO) [2010] `56:01`
 
 
 #### Marketing
