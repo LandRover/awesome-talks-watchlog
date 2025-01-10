@@ -8,7 +8,6 @@ These talks are mostly about programming but not only. The list contains also ot
 
 ---
 
-
 ### Software Development
 - [x] [**Join Dylan Beattie**: The Art of Code](https://www.youtube.com/watch?v=gdSlcxxYAA8) (BuildStyff) [2019] `01:01:27`
 - [x] [**Martin Kleppmann**: Correctness proofs of distributed systems with Isabelle](https://www.youtube.com/watch?v=7w4KC6i9Yac) (Strange Loop) [2019] `42:37`
