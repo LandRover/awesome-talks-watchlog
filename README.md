@@ -11,7 +11,7 @@ These talks are mostly about programming but not only. The list contains also ot
 ### AI
 - [x] [**Andrej Karpathy**: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ) (Y Combinator) [2025] `39:31`
 - [x] [**Bryan Bischof**: Stop Managing AI Projects Like Traditional Software](https://www.youtube.com/watch?v=R_HnI9oTv3c) (Explorers) [2025] `56:12`
-- [x] [**Shawn Wang**: Career Specialization in AI Software Engineering with Swyx]https://www.youtube.com/watch?v=hXASMaM2e6s) (This Dot - Leadership Exchange) [2025] `38:18`
+- [x] [**Shawn Wang**: Career Specialization in AI Software Engineering with Swyx](https://www.youtube.com/watch?v=hXASMaM2e6s) (This Dot - Leadership Exchange) [2025] `38:18`
 
 
 ### Software Development
