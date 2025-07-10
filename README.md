@@ -2,11 +2,17 @@
 
 I watch many online talks, I try to commit myself watching at least three new talks every week. I decided it was time to share the list and keep track of my progress publicly. Below is a list of talks that I enjoyed watching and would like my friends, coworkers and anyone interested in it to watch too.
 
-I'm an engineering director so most of the topics I watch related to software development, go, javascript, node and other software development topics around the web.
+I'm an engineering director, so most of the topics I watch related to software development, go, javascript, node and other software development topics around the web.
 
 These talks are mostly about programming but not only. The list contains also other aspects of software engineering such as business development, startups, leadership, management, technology as well as other topics that inspire me.
 
 ---
+
+### AI
+- [x] [**Andrej Karpathy**: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ) (Y Combinator) [2025] `39:31`
+- [x] [**Bryan Bischof**: Stop Managing AI Projects Like Traditional Software](https://www.youtube.com/watch?v=R_HnI9oTv3c) (Explorers) [2025] `56:12`
+- [x] [**Shawn Wang**: Career Specialization in AI Software Engineering with Swyx]https://www.youtube.com/watch?v=hXASMaM2e6s) (This Dot - Leadership Exchange) [2025] `38:18`
+
 
 ### Software Development
 - [x] [**Join Dylan Beattie**: The Art of Code](https://www.youtube.com/watch?v=gdSlcxxYAA8) (BuildStyff) [2019] `01:01:27`
