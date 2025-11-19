@@ -9,6 +9,7 @@ These talks are mostly about programming but not only. The list contains also ot
 ---
 
 ### AI
+- [x] [**Andrej Karpathy**: "We’re summoning ghosts, not building animals"](https://www.youtube.com/watch?v=lXUZvyajciY) (Dwarkesh Patel) [2025] `02:26:07`
 - [x] [**Julie Zhuo**: From managing people to managing AI - The leadership skills everyone needs now](https://www.youtube.com/watch?v=c_w0LaFahxk) (Lenny's Podcast) [2025] `01:36:23`
 - [x] [**Seth Godin**: The "Talking Dog" Theory of AI](https://www.youtube.com/watch?v=LFOvsXvO63k) (sublime) [2025] `38:07`
 - [x] [**Andrej Karpathy**: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ) (Y Combinator) [2025] `39:31`
