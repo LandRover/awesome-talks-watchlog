@@ -106,6 +106,7 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Christopher Chedeau**: Keynote 2 - A Deep Dive into React Native](https://www.youtube.com/watch?v=7rDsRXj9-cU) (React.js) [2015] `30:13`
 
 #### Web Development
+- [x] [**Kristijan Ristovski (Kitze)**: From Vibe Coding To Vibe Engineering](https://www.youtube.com/watch?v=JV-wY5pxXLo) (AI Engineer) [2025] `25:27`
 - [x] [**Daniel Stenberg**: HTTP/3 - HTTP over QUIC is the next generation](https://www.youtube.com/watch?v=idViw4anA6E) (Codegram - FullstackFest) [2019] `39:52`
 - [x] [**Lee Byron**: We're gunna program like it's 1999](https://www.youtube.com/watch?v=jMZssfxL6Sg) (Codegram - FullstackFest) [2019] `35:37`
 - [x] [**Kate Pearce & Carl Vincent**: HTTP/2 & Quic - Teaching Good Protocols to Do Bad Things](https://www.youtube.com/watch?v=wCa5nylzJCo) (Black Hat) [2016] `51:12`
