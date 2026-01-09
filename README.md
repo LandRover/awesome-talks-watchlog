@@ -240,6 +240,7 @@ These talks are mostly about programming but not only. The list contains also ot
 
 
 #### Methodologies
+- [x] [**Martin Harrysson & Natasha Maniar**: Moving away from Agile: What's Next?](https://www.youtube.com/watch?v=SZStlIhyTCY) (AI Engineer) [2025] `21:54`
 - [x] [**Robert Martin**: The S.O.L.I.D. Principles of OO and Agile Design](https://www.youtube.com/watch?v=t86v3N4OshQ) (Arlington Lakes) [2015] `01:12:11`
 - [x] [**Anders Ivarsson**: The Agile Engineering and Leadership Culture at Spotify](https://www.youtube.com/watch?v=9JAji1A1AmM) (XebiCon) [2015] `49:17`
 - [x] [**Chris Angove**: How Spotify Helps Their Engineers Grow](https://www.youtube.com/watch?v=qIIAZ1ZOnPA) (Hakka) [2014] `01:05:47`
