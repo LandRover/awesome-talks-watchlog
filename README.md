@@ -19,6 +19,9 @@ These talks are mostly about programming but not only. The list contains also ot
 - [x] [**Shawn Wang**: Career Specialization in AI Software Engineering with Swyx](https://www.youtube.com/watch?v=hXASMaM2e6s) (This Dot - Leadership Exchange) [2025] `38:18`
 
 
+### Claude
+- [x] [**Matt Pocock**: How I use Claude Code for real engineering](https://www.youtube.com/watch?v=dZxyeYBxPBA) (Matt Pocock) [2025] `10:11`
+
 ### Software Development
 - [x] [**Join Dylan Beattie**: The Art of Code](https://www.youtube.com/watch?v=gdSlcxxYAA8) (BuildStyff) [2019] `01:01:27`
 - [x] [**Martin Kleppmann**: Correctness proofs of distributed systems with Isabelle](https://www.youtube.com/watch?v=7w4KC6i9Yac) (Strange Loop) [2019] `42:37`
